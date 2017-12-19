@@ -1,0 +1,1616 @@
+         Available Data items for the following Database Selection:
+
+          DATABASES: Special Merger Sectors (Aus/NZ) (MA, OMA, IMA)
+          MA   - Mergers & Acquisitions
+          OMA  - Original SDC Mergers, 1979-84
+          IMA  - International Mergers
+
+                          Last Data Update: 29/07/2011
+
+Description                                                             Code                           
+-----------                                                             ----                           
+2 Step Spin Flag (Y/N)                                                  TWOSTEPSPIN                    
+Acq Closing Price 1 Day Prior To Ann (Acq Curr)                         ACQ_CURR_AC1DAY                
+Acq Closing Price 1 Day Prior to Ann (Host Curr)                        HOST_AC1DAY                    
+Acq Closing Price 1 Week Prior To Ann (Acq Curr)                        ACQ_CURR_AC1WK                 
+Acq Closing Price 1 Wk Prior to Ann (Host Curr)                         HOST_AC1WK                     
+Acq Closing Price 4 Weeks Prior To Ann (Acq Curr)                       ACQ_CURR_AC4WK                 
+Acq Closing Price 4 Wks Prior to Ann (Host Curr)                        HOST_AC4WK                     
+Acq Financial Advisor Fee is Based on % of Deal Value Flag (Y/N)        APCTFEE                        
+Acquirer's Indemnification Basket (HOST CURRENCY)                       INDEMN_ACQ_BSKT_HOST           
+Acquirer's Indemnification Basket (USD)                                 INDEMN_ACQ_BSKT                
+Acquirer's Indemnification Basket Deductibility (Code)                  INDEMN_ACQ_BSKT_DEDUCT         
+Acquirer's Indemnification Cap - % of (Rank Value)                      INDEMN_ACQ_CAP_PCT             
+Acquirer's Indemnification Cap (HOST)                                   INDEMN_ACQ_CAP_HOST            
+Acquirer's Indemnification Cap (USD)                                    INDEMN_ACQ_CAP                 
+Acquirer's Individual Claim Deductibility (Code)                        INDEMN_ACQ_INDIV_DEDUCT        
+Acquirer's Min. Indemnifiable Claim (HOST CURRENCY)                     INDEMN_ACQ_INDIV_MIN_HOST      
+Acquirer's Min. Indemnifiable Claim (USD)                               INDEMN_ACQ_INDIV_MIN           
+Acquiror                                                                ACUTIC                         
+Acquiror 6-digit CUSIP                                                  ACU                            
+Acquiror Accounts Payable LTM                                           AACCTPAY                       
+Acquiror Accounts Rec LTM in Host Curr                                  HOST_AACCREC                   
+Acquiror Accounts Receivable LTM                                        AACCREC                        
+Acquiror Accts Payable LTM in Host Curr                                 HOST_AACCTPAY                  
+Acquiror Actual Shares Outstanding (Mil)                                ACOMACT                        
+Acquiror Advertising Billings (Host Mil)                                HOSTABILLINGS                  
+Acquiror Advisor Credit in Ranking                                      AADVCREDIT                     
+Acquiror All SIC (Codes Listed Down the Page)                           ASIC                           
+Acquiror Australian Stock Exchange Industry (Code)                      AASXC                          
+Acquiror Book Value LTM                                                 ABV                            
+Acquiror Book Value LTM in Host Curr                                    HOST_ABV                       
+Acquiror Business Description, Full (ALL CAPS, Text Paragraph)          ABLUPPER                       
+Acquiror Business Description, Full (UPPER CASE)                        ABUSINESSL_Q                   
+Acquiror Canadian Province                                              APROVINCE                      
+Acquiror Capital Expend LTM in Host Curr                                HOST_ACAPEX                    
+Acquiror Capital Expenditures LTM                                       ACAPEX                         
+Acquiror Cash LTM                                                       ACASH                          
+Acquiror Cash LTM in Host Currency                                      HOST_ACASH                     
+Acquiror CIDGEN                                                         ACIDGEN                        
+Acquiror City                                                           ACITY                          
+Acquiror Closing Price 1 Day Prior to Ann ($)                           AC1DAY                         
+Acquiror Closing Price 1 Wk Prior to Ann ($)                            AC1WK                          
+Acquiror Closing Price 4 Wks Prior to Ann ($)                           AC4WK                          
+Acquiror Common Div LTM in Host Curr                                    HOST_ACOMDIV                   
+Acquiror Common Dividends LTM                                           ACOMDIV                        
+Acquiror Common Equity LTM                                              ACOMEQ                         
+Acquiror Common Equity LTM in Host Curr                                 HOST_ACOMEQ                    
+Acquiror Common Shares LTM                                              ACOMDFIN                       
+Acquiror Convertible Debt LTM                                           ACVTDBT                        
+Acquiror Convertible Debt LTM in Host Curr                              HOST_ACVTDBT                   
+Acquiror Current Assets LTM                                             ACASS                          
+Acquiror Current Assets LTM in Host Curr                                HOST_ACASS                     
+Acquiror Current Liabilities LTM                                        ACLIA                          
+Acquiror Current Liabilities LTM in Host Curr                           HOST_ACLIA                     
+Acquiror Datastream Code                                                A_DS_CODE                      
+Acquiror Deferred Taxes LTM                                             ADEFER                         
+Acquiror Deferred Taxes LTM in Host Curr                                HOST_ADEFER                    
+Acquiror Deprec, Amort LTM in Host Curr                                 HOST_ADEP                      
+Acquiror Depreciation, Amortization LTM                                 ADEP                           
+Acquiror Due Diligence Advisor (Code)                                   AACCC                          
+Acquiror Earnings Per Share LTM ($)                                     AEPS                           
+Acquiror Earnings Per Share LTM (Host)                                  HOST_AEPS                      
+Acquiror EBIT LTM                                                       AEBIT                          
+Acquiror EBIT LTM in Host Currency                                      HOST_AEBIT                     
+Acquiror EBITDA LTM                                                     ACASHFLOW                      
+Acquiror EBITDA LTM in Host Curr                                        HOST_ACASHFLOW                 
+Acquiror Financial Advisor Assignments (Codes)                          AASSIGNC                       
+Acquiror Financial Advisor Fee Assignments (Codes)                      AFC                            
+Acquiror Financial Advisor Fee Information Source                       AFEE_SOURCE                    
+Acquiror Financial Advisor Fee is Based on Flat Rate Flag (Y/N)         AFLATFEE                       
+Acquiror Financial Advisor Fees, Amt per Advisor ($ Mil)                AFTOTN                         
+Acquiror Financial Advisor Fees, Amt per Advisor (Host Mil)             HOSTATOTFEENEG                 
+Acquiror Financial Advisor Fees, Amt per Assignment ($ Mil)             AFAMT                          
+Acquiror Financial Advisor Fees, Amt per Assignment (Host Mil)          HOSTAFEEAMT                    
+Acquiror Financial Advisor Fees, Total Amt ($ Mil)                      AFTOT                          
+Acquiror Financial Advisor Fees, Total Amt (Euro Mil)                   EUROAFEETOT                    
+Acquiror Financial Advisor Fees, Total Amt (Host Mil)                   HOSTAFEETOT                    
+Acquiror Financial Advisor Fees, Total Amt as % of Deal Value           AFEEPCT                        
+Acquiror Financial Advisors (Codes)                                     AAA_AACODE                     
+Acquiror Financial Advisors' Parent State (Codes)                       AASTATE                        
+Acquiror Financial Advisors with LT-eligible Role (Codes)               AAA_AACODE_ROLE_ELIG           
+Acquiror Financial Information Source (Code)                            AFSRCC                         
+Acquiror Financials Source Date                                         DATE_FIN_SOURCE_A              
+Acquiror Firm Type                                                      ACQUIROR_TYPE                  
+Acquiror Forbes Sales 500 Rank                                          AFBRANK                        
+Acquiror Fortune 500 Rank                                               AFTRANK                        
+Acquiror Fully Diluted Shares Outstanding (Mil)                         ACOUT                          
+Acquiror Goodwill LTM                                                   AGWIL                          
+Acquiror Goodwill LTM in Host Currency                                  HOST_AGWIL                     
+Acquiror High Tech Industry (Codes)                                     AHTECHC                        
+Acquiror Immediate Parent 6-digit CUSIP                                 AIP                            
+Acquiror Immediate Parent CIDGEN                                        AIPCIDGEN                      
+Acquiror Immediate Parent is a Financial Sponsor (Y/N)                  AIPFINANCIAL                   
+Acquiror Immediate Parent Public Status (Code)                          AIPPUBC                        
+Acquiror Industry Sector (Code)                                         AINC                           
+Acquiror Insurance Premiums (Host Mil)                                  HOSTAPREMIUMS                  
+Acquiror Intangible Assets LTM                                          AIASS                          
+Acquiror Intangible Asts LTM in Host Curr                               HOST_AIASS                     
+Acquiror Inventories LTM                                                AINVEN                         
+Acquiror Inventories LTM in Host Currency                               HOST_AINVEN                    
+Acquiror is a Financial Sponsor Flag (Y/N)                              AFINANCIAL                     
+Acquiror is a Leveraged Buyout Firm                                     ALBOFIRM                       
+Acquiror is a Limited Partnership Flag (Y/N)                            ALP                            
+Acquiror is a Special Purpose Acquisition Vehicle Flag (Y/N)            ASPV                           
+Acquiror is a White Knight Flag (Y/N)                                   AWK                            
+Acquiror Legal Advisor Assignments (Codes)                              ALEGALASSIGNMENTCODE           
+Acquiror Legal Advisor Credit in Ranking                                A_LEG_CREDIT                   
+Acquiror Legal Advisor Fees, Amt per Advisor ($ Mil)                    AFLEGAL                        
+Acquiror Legal Advisor Lawyers (Code)                                   ALAWYERCODE                    
+Acquiror Legal Advisor Nation (Code)                                    ALEGALNATIONC                  
+Acquiror Legal Advisors (Codes)                                         ALEGC                          
+Acquiror Lockup Percentage (%)                                          A_LOCKUP_PCT                   
+Acquiror Lockup Price (Host Curr)                                       A_LOCKUP_PR_HOST               
+Acquiror Lockup Price (US $)                                            A_LOCKUP_PR                    
+Acquiror LT-eligible Financial Advisor Assignments (Codes)              AASSIGNC_ELIG                  
+Acquiror Macro Industry (Code)                                          ATF_MACRO_CODE                 
+Acquiror Market Value 4 Weeks Prior to Announcement ($ Mil)             AMV                            
+Acquiror Mid Industry (Code)                                            ATF_MID_CODE                   
+Acquiror Minority Interest LTM                                          AMININT                        
+Acquiror Minority Interest LTM in Host Curr                             HOST_AMININT                   
+Acquiror NAIC (Code)                                                    ANAIC                          
+Acquiror Name (Full)                                                    ANL                            
+Acquiror Nation (Code)                                                  ANATC                          
+Acquiror Nation of Primary Stock Exchange (Code)                        ANPSE_CODE                     
+Acquiror Nation of Stock Exchange (Code)                                ANSE_CODE                      
+Acquiror Nation Region (Code)                                           ANATRC                         
+Acquiror Net Assets Last Twelve Months ($ Mil)                          ANETASS                        
+Acquiror Net Assets Last Twelve Months (Host Mil)                       HOSTANETASS                    
+Acquiror Net Cash Fin Act LTM in Host Curr                              HOST_AFINCASH                  
+Acquiror Net Cash from Fin Act LTM                                      AFINCASH                       
+Acquiror Net Cash from Inv Act LTM                                      AINVCASH                       
+Acquiror Net Cash from Op Act LTM                                       AOPCASH                        
+Acquiror Net Cash Inv Act LTM in Host Curr                              HOST_AINVCASH                  
+Acquiror Net Cash Op Act LTM in Host Curr                               HOST_AOPCASH                   
+Acquiror Net Debt LTM                                                   ANETDEBT                       
+Acquiror Net Debt LTM in Host Currency                                  HOST_ANETDEBT                  
+Acquiror Net Income Last Twelve Months ($Mil)                           ANI                            
+Acquiror Net Income Last Twelve Months (Euro mil)                       EURO_ANILTM                    
+Acquiror Net Income Last Twelve Months (Host Mil)                       HOSTANILTM                     
+Acquiror Net Sales Last Twelve Months ($ Mil)                           ASALES                         
+Acquiror Net Sales Last Twelve Months (Euro mil)                        EURO_ASALESLTM                 
+Acquiror Net Sales Last Twelve Months (Host Mil)                        HOSTASALESLTM                  
+Acquiror Owns a Lockup Agreement Flag (Y/N)                             ALOCKUP                        
+Acquiror Preferred Div LTM in Host Curr                                 HOST_APFDDIV                   
+Acquiror Preferred Dividends LTM                                        APFDDIV                        
+Acquiror Preferred Equity LTM                                           APFDEQ                         
+Acquiror Preferred Equity LTM in Host Curr                              HOST_APFDEQ                    
+Acquiror Preferred Shares Issued (Mil)                                  PFDISSUED                      
+Acquiror Pre-tax Income LTM                                             APTINC                         
+Acquiror Pre-tax Income LTM in Host Curr                                HOST_APTINC                    
+Acquiror Primary High Tech Codes                                        AHITECHP                       
+Acquiror Primary NAIC (Code)                                            ANAICP                         
+Acquiror Primary Nation Region (Code)                                   APNATREGC                      
+Acquiror Primary SIC (Code)                                             ASICP                          
+Acquiror Primary Stock Exchange (Code)                                  AEXCHC                         
+Acquiror Primary Stock Exchange by Country (Code)                       APRIMEXCHC                     
+Acquiror Primary Ticker Symbol                                          ATIC                           
+Acquiror Primary Venture Economics Industry (Code)                      AVEICP                         
+Acquiror Prop,Plant,Equip LTM in Host Curr                              HOST_APPE                      
+Acquiror Property, Plant, Equip LTM                                     APPE                           
+Acquiror Public Mid Code                                                ACQUIROR_PUB_MID               
+Acquiror Public Status (Code)                                           APUBC                          
+Acquiror Share Price Prior to Announcement ($)                          APRSHARE                       
+Acquiror Share Price Prior to Announcement (Host)                       HOSTAPRSHARE                   
+Acquiror Short-term Debt LTM                                            ASTDBT                         
+Acquiror Short-term Debt LTM in Host Curr                               HOST_ASTDBT                    
+Acquiror Significant Individuals (Codes)                                ASICODE                        
+Acquiror State (Code)                                                   ASTC                           
+Acquiror State of Incorporation (Code)                                  ASTIC                          
+Acquiror Stock Exchange (Code)                                          AAEXCHC                        
+Acquiror Stock Exchange (Name)                                          AAEXCHANGE                     
+Acquiror Stock Price 1 Day After Announcement ($)                       APR1DAYA                       
+Acquiror Stock Price 1 Week After Announcement ($)                      APR1WKA                        
+Acquiror Stock Price 10 Days After Announcement ($)                     APR10DAYA                      
+Acquiror Stock Price 180 Days After Announcement ($)                    APR180DAYA                     
+Acquiror Stock Price 4 Weeks After Announcement ($)                     APR4WKA                        
+Acquiror Stock Price 60 Days After Announcement ($)                     APR60DAYA                      
+Acquiror Stock Price 90 Days After Announcement ($)                     APR90DAYA                      
+Acquiror Stock Price on Announcement Day ($)                            APRDAY                         
+Acquiror Straight Debt LTM                                              ASTRDBT                        
+Acquiror Straight Debt LTM in Host Curr                                 HOST_ASTRDBT                   
+Acquiror Supranational Flag (Y/N)                                       ASUPRANATIONAL                 
+Acquiror Taxes LTM                                                      ATAXES                         
+Acquiror Taxes LTM in Host Currency                                     HOST_ATAXES                    
+Acquiror Termination Fee ($ Mil)                                        ATERMFEE                       
+Acquiror Termination Fee (Host Mil)                                     HOSTATERMFEE                   
+Acquiror Termination Fee Flag (Y/N)                                     ATERM                          
+Acquiror Ticker Symbol                                                  AATIC                          
+Acquiror Total Assets (Euro mil)                                        EURO_ATASS                     
+Acquiror Total Assets (Host Mil)                                        HOSTATASS                      
+Acquiror Total Assets Last Twelve Months ($ Mil)                        ATASS                          
+Acquiror Total Bank Deposits ($ Mil)                                    ADEPOSITS                      
+Acquiror Total Bank Deposits (Host Mil)                                 HOSTADEPOSITS                  
+Acquiror Total Liabilities ($ Mil)                                      ATLIA                          
+Acquiror Total Liabilities (Host Mil)                                   HOSTATLIA                      
+Acquiror Ultimate Parent 6-digit CUSIP                                  AUP                            
+Acquiror Ultimate Parent All SIC (Codes)                                AUPSIC                         
+Acquiror Ultimate Parent Australian Stock Exchange Industry (Code)      AUPASXC                        
+Acquiror Ultimate Parent Business Description, Full (Text Paragraph)    AUPBL                          
+Acquiror Ultimate Parent Business Short (Description)                   AUPBUSS                        
+Acquiror Ultimate Parent CIDGEN                                         AUPCIDGEN                      
+Acquiror Ultimate Parent High Tech Industry (Codes)                     AUPHTECH                       
+Acquiror Ultimate Parent Industry (Code)                                AUPINC                         
+Acquiror Ultimate Parent Industry Group (Code)                          AUPINGC                        
+Acquiror Ultimate Parent is a Financial Sponsor Flag (Y/N)              AUPFINANCIAL                   
+Acquiror Ultimate Parent Macro Industry (Code)                          AUP_MACRO_CODE                 
+Acquiror Ultimate Parent Mid Industry (Code)                            AUP_MID_CODE                   
+Acquiror Ultimate Parent Name                                           AUPNAMES                       
+Acquiror Ultimate Parent Nation (Code)                                  AUPNATC                        
+Acquiror Ultimate Parent Nation Region (Code)                           AUPNATREGC                     
+Acquiror Ultimate Parent Phone Number                                   AUPPHONE                       
+Acquiror Ultimate Parent Primary NAIC (Code)                            AUPNAICP                       
+Acquiror Ultimate Parent Primary Nation Region (Code)                   AUPPNATREGC                    
+Acquiror Ultimate Parent Primary SIC (Code)                             AUPSICP                        
+Acquiror Ultimate Parent Primary Stock Exchange (Code)                  AUPEXCHCODE                    
+Acquiror Ultimate Parent Primary Ticker Symbol                          AUPTIC                         
+Acquiror Ultimate Parent Primary Venture Economics Industry (Code)      AUPVEICP                       
+Acquiror Ultimate Parent Public Mid Code                                AUP_PUB_MID                    
+Acquiror Ultimate Parent Public Status (Code)                           AUPPUBC                        
+Acquiror Ultimate Parent State (Code)                                   AUPSTC                         
+Acquiror Ultimate Parent State (Name)                                   AUPSTATE                       
+Acquiror Ultimate Parent Stock Exchange (Code)                          AUPAEXCHCODE                   
+Acquiror Ultimate Parent Stock Exchange (Name)                          AUPAEXCHANGE                   
+Acquiror Ultimate Parent Street Address (Line 1)                        AUPSTREET1                     
+Acquiror Ultimate Parent Street Address (Line 2)                        AUPSTREET2                     
+Acquiror Ultimate Parent Ticker Symbol                                  AAUPTIC                        
+Acquiror Ultimate Parent Venture Economics Industry (Code)              AUPVEIC                        
+Acquiror Ultimate Parent Zip Code                                       AUPZIP                         
+Acquiror Ultimate Parent's SEDOL                                        AUPSEDOL                       
+Acquiror Venture Economics Industry (Code)                              AVEIC                          
+Acquiror Walk Away Price                                                ACQUIROR_WALK_AWAY_PRICE       
+Acquiror Zip Code                                                       AZIP                           
+Acquiror/Investor                                                       AICUTIC                        
+Acquiror's SEDOL                                                        ACQUIROR_SEDOL                 
+Acquisition Techniques (Code)                                           RANK_MENUACQTECH               
+Acquisitions Monthly: Acquiror (Name)                                   AM_ACQNAME                     
+Acquisitions Monthly: Acquiror Ultimate Parent (Name)                   AM_ACQUPNAME                   
+Acquisitions Monthly: Target (Name)                                     AM_TNAME                       
+Acquisitions Monthly: Target Ultimate Parent (Name)                     AM_TUPNAME                     
+Activity of Majority-Owned Portfolio Company Flag (Y/N)                 MAJORITY_OWNED_PORT_COMP_YN    
+Alliance Flag (Y/N)                                                     ALLIANCE                       
+Analyst Estimated Value ($ mil)                                         ANALYST_EST_VALUE              
+Analyst Estimated Value (Host mil)                                      HOST_ANALYST_EST_VALUE         
+Any Hedge Fund Involvement (Y/N)                                        HEDGE_FUND_INVOLV_YN           
+Any Infrastructure Fund Involvement (Y/N)                               INFRA_FUND_INVOLV_YN           
+Any Involvement Nation (Code)                                           MANATC                         
+Any Involvement Nation Region (Code)                                    MANATRC                        
+Any Involvement Primary Nation Region (Code)                            MANATREGC                      
+Any Red Chip Company Involvement Y/N                                    RED_CHIP_INVOLV_YN             
+Aquiror Number of Employees                                             AEMPLOYEE                      
+Asset Swap Flag (Y/N)                                                   ASSET_SWAP                     
+Attitude Change Flag (Y/N)                                              ATTITUDE_CHANGE_YN             
+Australian Mergers: Bid Date                                            BIDDATE                        
+Australian Mergers: Bid Type Code                                       BIDTYPE                        
+Australian Mergers: Director's Recommendation (Code)                    DR                             
+Australian Mergers: Expert's Conclusion (Code)                          EC                             
+Australian Mergers: Response Date                                       RESPONSEDATE                   
+Australian Mergers: Response Type                                       RESPONSETYPE                   
+Bankruptcy Flag (Y/N)                                                   BNKRUPT                        
+Blank Check Company Flag Y/N                                            BLANK_CHECK_COMPANY_YN         
+Block Purchases Flag (Y/N)                                              BLOCK                          
+Book Value per Share 1 Year Prior ($)                                   BV1                            
+Book Value per Share 2 Years Prior ($)                                  BV2                            
+Book Value per Share 3 Years Prior ($)                                  BV3                            
+Book Value per Share 4 Years Prior ($)                                  BV4                            
+Book Value per Share 5 Years Prior ($)                                  BV5                            
+Book Value per Share Last Twelve Months ($)                             BV                             
+Book Value per Share Last Twelve Months (Euro)                          EURO_BOOKVALUE                 
+Book Value per Share Last Twelve Months (Host)                          HOSTBV                         
+Book Value per Share Most Recent Interim Period ($)                     BVLQ                           
+Book Value per Share Same Quarter 1 Year Prior ($)                      BVFQ                           
+Buyouts or Financial Sponsor Involvement Flag (Y/N)                     VENTURE_INVOLV_YN              
+Buyside Hedge Fund Involvement (Y/N)                                    BUYSIDE_HEDGE_FUND_INVOLV_YN   
+Buyside Infrastructure Fund Involvement (Y/N)                           BUYSIDE_INFRA_FUND_INVOLV_YN   
+Buyside: Any Red Chip Company Involvement Y/N                           BUYSIDE_RED_CHIP_INVOLV_YN     
+Buyside: Financial Sponsor Activity Flag (Y/N)                          BUYSIDE_INVOLV_YN              
+Buyside: Financial Sponsor Consortium/Club Activity Y/N                 BUYSIDE_FINSPONS_CLUBACT_YN    
+Buyside:Government Owned Involvement Flag (Y/N)                         BUYSIDE_GOV_OWN_INVOLV_YN      
+Buyside:Sovereign Wealth Fund Involvement Flag (Y/N)                    BUYSIDE_SWF_INVOLV_YN          
+Capital Expenditures 1 Year Prior ($ Mil)                               CAPEX1                         
+Capital Expenditures 1 Year Prior (Host Mil)                            HOSTCAPEX1                     
+Capital Expenditures 2 Years Prior ($ Mil)                              CAPEX2                         
+Capital Expenditures 2 Years Prior (Host Mil)                           HOSTCAPEX2                     
+Capital Expenditures 3 Years Prior ($ Mil)                              CAPEX3                         
+Capital Expenditures 3 Years Prior (Host Mil)                           HOSTCAPEX3                     
+Capital Expenditures 4 Years Prior ($ Mil)                              CAPEX4                         
+Capital Expenditures 4 Years Prior (Host Mil)                           HOSTCAPEX4                     
+Capital Expenditures 5 Years Prior ($ Mil)                              CAPEX5                         
+Capital Expenditures 5 Years Prior (Host Mil)                           HOSTCAPEX5                     
+Capital Expenditures Last Twelve Months ($ Mil)                         CAPEX                          
+Capital Expenditures Last Twelve Months (Host Mil)                      HOSTCAPEXLTM                   
+Capital Expenditures Most Recent Quarter ($ Mil)                        CAPEXLQ                        
+Capital Expenditures Same Quarter 1 Year Prior ($ Mil)                  CAPEXFQ                        
+Capitalization exc. STD plus LTD plus S/H Equity ($ Mil)                CAPNOSTD                       
+Capitalization exc. STD plus LTD plus S/H Equity (Host Mil)             HOSTCAPNOSTD                   
+Capitalization inc. STD plus LTD plus S/H Equity ($ Mil)                CAP                            
+Capitalization inc. STD plus LTD plus S/H Equity (Host Mil)             HOSTCAPITALIZATION             
+Cash & Marketable Sec 1 Year Prior ($ Mil)                              CASH1                          
+Cash & Marketable Sec 2 Years Prior ($ Mil)                             CASH2                          
+Cash & Marketable Sec 3 Years Prior ($ Mil)                             CASH3                          
+Cash & Marketable Sec 4 Years Prior ($ Mil)                             CASH4                          
+Cash & Marketable Sec 5 Years Prior ($ Mil)                             CASH5                          
+Cash & Marketable Sec Last Twelve Months ($ Mil)                        CASH                           
+Cash & Marketable Sec Last Twelve Months (Host Mil)                     HOSTCASH                       
+Cash & Marketable Sec Most Recent Quarter ($ Mil)                       CASHLQ                         
+Cash & Marketable Sec Same Quarter 1 Year Prior ($ Mil)                 CASHFQ                         
+Cash & Marketable Sec. Last Twelve Months (Euro mil)                    EURO_CASH                      
+Challenged Deal Acquiror 6-digit CUSIP                                  COMPETEACU                     
+Challenged Deal Acquiror CIDGEN                                         COMPETEACIDGEN                 
+Challenged Deal Flag (Y/N)                                              CHA                            
+Challenged Deal Target 6-digit CUSIP                                    COMPETETCU                     
+Challenged Deal Target CIDGEN                                           COMPETETCIDGEN                 
+Choice of Considerations Flag (Y/N)                                     CHOICE                         
+Collar Breached Flag (Y/N)                                              COLLAR_BREACHED                
+Collar Exchange Ratio Fixed Flag (Y/N)                                  COLLAR_EXCHANGE_RATIO_FIXED    
+Collar Exchange Ratio Floating Flag (Y/N)                               COLLAR_EXCHANGE_RATIO_FLOATING 
+Collar Flag (Y/N)                                                       COLLAR                         
+Collar Percentage Down                                                  COLLAR_PCT_DOWN                
+Collar Percentage Up                                                    COLLAR_PCT_UP                  
+Collar Price High ($)                                                   COLLARPRH                      
+Collar Price High (Host)                                                HOSTCOLLARPRH                  
+Collar Price Low ($)                                                    COLLARPRL                      
+Collar Price Low (Host)                                                 HOSTCOLLARPRL                  
+Collar Source                                                           ACOLLAR_SOURCE                 
+Collar Source Date                                                      COLLAR_SOURCE                  
+Collar Status                                                           COLLAR_STAT                    
+Common Dividends 1 Year Prior ($ Mil)                                   COMDV1                         
+Common Dividends 1 Year Prior (Host Mil)                                HOSTCOMDV1                     
+Common Dividends 2 Years Prior ($ Mil)                                  COMDV2                         
+Common Dividends 2 Years Prior (Host Mil)                               HOSTCOMDV2                     
+Common Dividends 3 Years Prior ($ Mil)                                  COMDV3                         
+Common Dividends 3 Years Prior (Host Mil)                               HOSTCOMDV3                     
+Common Dividends 4 Years Prior ($ Mil)                                  COMDV4                         
+Common Dividends 4 Years Prior (Host Mil)                               HOSTCOMDV4                     
+Common Dividends 5 Years Prior ($ Mil)                                  COMDV5                         
+Common Dividends 5 Years Prior (Host Mil)                               HOSTCOMDV5                     
+Common Dividends Last Twelve Months ($ Mil)                             COMDV                          
+Common Dividends Last Twelve Months (Host Mil)                          HOSTCOMDVLTM                   
+Common Dividends Most Recent Quarter ($ Mil)                            COMDVLQ                        
+Common Dividends Same Quarter 1 Year Prior ($ Mil)                      COMDVFQ                        
+Common Equity Last Twelve Months ($ Mil)                                COMEQ                          
+Common Equity Last Twelve Months (Host Mil)                             HOSTCOMMONEQUITY               
+Common Shares Acquired in Transaction (Mil)                             CACQ                           
+Common Shares Bought by Acquiror within 6 Months Prior to Ann. (Mil)    C6                             
+Common Shares Held by Acquiror at 6 Months Prior to Ann. (Mil)          CHELD                          
+Common Shares Issued by Acquiror (Mil)                                  COMISSUED                      
+Common Shares Sought by Acquiror (Mil)                                  CSOUGHT                        
+Common Shares Sought by Acquiror in Tender Offer (Mil)                  CSOUGHTT                       
+Competing Offer Acquiror Name                                           COMPETEAN                      
+Competing Offer Flag (Y/N)                                              COMPETE                        
+Competing Offer SDC Deal Number                                         COMPETECODE                    
+Competing Offer Target Name                                             COMPETETN                      
+Competing Offer Value of Transaction ($ Mil)                            COMPETEVAL                     
+Consideration Offered (Codes)                                           CONSIDOC                       
+Consideration Offered Category (Code)                                   MENUCONO                       
+Consideration Offered/Sought (Description)                              CONSID                         
+Consideration Sought (Codes)                                            CONSIDSC                       
+Consideration Sought Category (Code)                                    MENUCONS                       
+Consideration Structure                                                 CONSID_STRUCTURE               
+Convertible Debt Last Twelve Months ($ Mil)                             CVTD                           
+Convertible Debt Last Twelve Months (Host Mil)                          HOSTCVTDEBT                    
+Cost to Acquire Common Shares ($ Mil)                                   CSTCOM                         
+Cost to Acquire Common Shares (Host Mil)                                HOSTCOSTCOM                    
+Cost to Acquire Convertible Securities ($ Mil)                          CSTCVT                         
+Cost to Acquire Convertible Securities (Euro mil)                       EURO_COSTCVT                   
+Cost to Acquire Convertible Securities (Host Mil)                       HOSTCOSTCVT                    
+Cost to Acquire Preferred Shares ($ Mil)                                CSTPFD                         
+Cost to Acquire Preferred Shares (Euro mil)                             EURO_COSTPFD                   
+Cost to Acquire Preferred Shares (Host Mil)                             HOSTCOSTPFD                    
+Cost tot Acquire Common Shares (Euro mil)                               EURO_COSTCOM                   
+Creeping Purchase Flag (Y/N)                                            CREEP                          
+Cross Border Deal Flag (Y/N)                                            CROSS                          
+Currency of Acquiror Financials (Code)                                  AFINCURRC                      
+Currency of Deal (Code)                                                 CURRC                          
+Currency of Target Financials (Code)                                    TFINCURRC                      
+Current Assets Last Twelve Months ($ Mil)                               CASS                           
+Date 1 Day Prior to Announcement                                        ONE_DAY                        
+Date 1 Day Prior to Announcement (Acq)                                  AONE_DAY                       
+Date 1 Week Prior to Announcement                                       ONE_WEEK                       
+Date 1 Week Prior to Announcement (Acq)                                 AONE_WEEK                      
+Date 4 Weeks Prior to Announcement                                      FOUR_WEEK                      
+Date 4 Weeks Prior to Announcement (Acq)                                AFOUR_WEEK                     
+Date Acquiror Advisor Added                                             AADV_ADD_DATE                  
+Date Acquisition of a Majority Interest is Effective                    DEFFMAJ                        
+Date Announced                                                          DA                             
+Date Announced is Estimated Flag (Y/N)                                  DAE                            
+Date Deal is Expected to be Effective                                   DATEEFFEXP                     
+Date Deal was Created in SDC Database                                   CREATE_STAMP                   
+Date Deal was Last Updated in SDC Database                              UPDATE_STAMP                   
+Date Effective                                                          DE                             
+Date Effective is Estimated Flag (Y/N)                                  DEE                            
+Date Effective/Unconditional                                            DUNCON                         
+Date Either Target/Acquiror Advisor Added                               BADV_ADD_DATE                  
+Date Forecasted for Year Ending                                         FORECAST_DATE                  
+Date of Acquiror Financials                                             ADFIN                          
+Date of Current Fiscal Year End                                         FORECASTEDFISCAL1              
+Date of EC Referral                                                     DATE_EUCREF                    
+Date of EC Review                                                       DATE_EUCREV                    
+Date of Expiration of Tender Offer                                      DEXP                           
+Date of First Stake Purchase                                            DFSTAKE                        
+Date of Fiscal Year End 1 Year Prior to Announcement                    FISCAL1                        
+Date of Fiscal Year End 2 Years Prior to Announcement                   FISCAL2                        
+Date of Fiscal Year End 3 Years Prior to Announcement                   FISCAL3                        
+Date of Fiscal Year End 4 Years Prior to Announcement                   FISCAL4                        
+Date of MMC Referral                                                    DATE_MMCREF                    
+Date of MMC Review                                                      DATE_MMCREV                    
+Date of Most Recent Fiscal Year End Prior to Announcement               FISCAL                         
+Date of Original Expiration of Tender Offer                             DOEXP                          
+Date of Record                                                          DATERECORD                     
+Date of Significant Revision                                            SIG_UPDATE                     
+Date of Target Financials                                               DFIN                           
+Date of Tender Offer                                                    DTENDER                        
+Date Originally Announced                                               DAO                            
+Date Target Advisor Added                                               TADV_ADD_DATE                  
+Date used to Value Common Shares at Announcement                        DCOM                           
+Date used to Value Common Shares at Effective Date                      DCOMEFF                        
+Date Withdrawn                                                          DW                             
+Deal Attitude (Code)                                                    ATTC                           
+Deal Started as Unsolicited Flag (Y/N)                                  UNSOLICITED                    
+Deal Status (Code)                                                      STATC                          
+Deal Status Rollup (Code)                                               STATUS_ROLLUP_CODE             
+Deal Synopsis (Text Paragraph) (All CAPS)                               SYNOPSIS_UPPER                 
+Deal Synopsis (Text Paragraph) (All CAPS)                               SYNOPSIS_Q                     
+Deal Type (Code)                                                        MENUMAIN                       
+Deal Value ($ Mil)                                                      VAL                            
+Deal Value (Euro mil)                                                   EURO_VALUE                     
+Deal Value (Host Mil)                                                   HOSTVALUE                      
+Deal Value (Pounds Sterling Mil)                                        STGVAL                         
+Deal Value (Yen mil)                                                    YENVAL                         
+Deal Value as-of Date                                                   DATEVAL                        
+Deal Value at Effective Date ($ Mil)                                    VEFF                           
+Deal Value at Effective Date (Euro mil)                                 EURO_VALEFF                    
+Deal Value at Effective Date (Host Mil)                                 HOSTVALEFF                     
+Deal Value exc. Assumed Liabilities ($ Mil)                             VALNOLIA                       
+Deal Value exc. Assumed Liabilities at Effective Date ($ Mil)           VALNOLIAEFF                    
+Deal Value exc. Capital Infusion ( Euro mil)                            EURO_VALNOCAPINF               
+Deal Value exc. Capital Infusion ($ Mil)                                VALNOCAPINF                    
+Deal Value exc. Capital Infusion (Host Mil)                             HOSTVALNOCAPINF                
+Deal Value exc. Liabilities Assumed (Euro mil)                          EURO_VALNOLIA                  
+Deal Value exc. Liabilities Assumed (Host Mil)                          HOSTVALNOLIA                   
+Deal Value is Estimated Flag (Y/N)                                      VEST                           
+Deal Value Ratio Flag                                                   DEAL_VALUE_RATIO_FLAG          
+Deal Value was Amended Flag (Y/N)                                       VALAMEND                       
+Debt Restructuring (Y/N Flag)                                           DBT_RESTRUCT                   
+Debt Tender Offer Flag                                                  DEBT_TNDR                      
+Defensive Asset Lockup Flag (Y/N)                                       LOCKA                          
+Defensive Backend Poison Pill Flag (Y/N)                                BACKEND                        
+Defensive Flipover Poison Pill Flag (Y/N)                               FLIP                           
+Defensive Greenmail Flag (Y/N)                                          GREEN                          
+Defensive Lockup Agreement Owned by Target Flag (Y/N)                   TLOCKUP                        
+Defensive Lockup Flag (Y/N)                                             LOCKUP                         
+Defensive Pac-Man Flag (Y/N)                                            PAC                            
+Defensive Poison Pill Flag (Y/N)                                        POIS                           
+Defensive Recapitalization Flag (Y/N)                                   DRECAP                         
+Defensive Repurchase Flag (Y/N)                                         DREP                           
+Defensive Scorched Earth Flag (Y/N)                                     SCORCH                         
+Defensive Self-Tender Flag (Y/N)                                        DSELF                          
+Defensive Stock Lockup Flag (Y/N)                                       LOCKS                          
+Defensive Tactics (Codes)                                               RANK_MENUDEFTECH               
+Defensive Tactics Flag (Y/N)                                            DEF                            
+Defensive Voting Plan Poison Pill Flag (Y/N)                            VPLAN                          
+Defensive White Knight Flag (Y/N)                                       KNIGHT                         
+Defensive White Squire Flag (Y/N)                                       SQUIRE                         
+Deferred Income Taxes Last Twelve Months (Host Mil)                     HOSTDEFERLTM                   
+Deferred Taxes Last Twelve Months ($ Mil)                               DEFER                          
+Definitive Agreement (Y/N)                                              DEFINITIVE_AGT                 
+Definitive Agreement Date                                               DA_DATE                        
+Definitive Agreement Reviewed                                           DEF_AGT_REVIEWED               
+Depositary (Code)                                                       DEPYC                          
+Depreciation & Amort Last Twelve Months ($ Mil)                         DEPNA                          
+Depreciation & Amort Last Twelve Months (Euro Mil)                      EMU_HOSTDEPANDAMORTLTM         
+Depreciation & Amort Last Twelve Months (Host Mil)                      HOSTDEPANDAMORT                
+Discounted Cash Flow: Discount Rate High                                FO_DCF_RATE_HI                 
+Discounted Cash Flow: Discount Rate Low                                 FO_DCF_RATE_LOW                
+Discounted Cash Flow: Implied Equity Value High (Host)                  FO_DCF_EQVAL_HI_HOST           
+Discounted Cash Flow: Implied Equity Value High (US$)                   FO_DCF_EQVAL_HI                
+Discounted Cash Flow: Implied Equity Value Low (Host)                   FO_DCF_EQVAL_LOW_HOST          
+Discounted Cash Flow: Implied Equity Value Low (US$)                    FO_DCF_EQVAL_LOW               
+Discounted Cash Flow: Implied Equity Value Type (Code)                  FO_DCF_EQVAL_TYPEC             
+Discounted Cash Flow: Perpetuity Growth High                            FO_DCF_PERP_HI                 
+Discounted Cash Flow: Perpetuity Growth Low                             FO_DCF_PERP_LOW                
+Discounted Cash Flow: Terminal Multiple High                            FO_DCF_TERM_HI                 
+Discounted Cash Flow: Terminal Multiple Low                             FO_DCF_TERM_LOW                
+Discounted Cash Flow: Terminal Multiple Type (Code)                     FO_DCF_TERM_TYPEC              
+Divestiture Flag (Y/N)                                                  DIVEST                         
+Division Flag (Y/N)                                                     DIVISION                       
+Dow Jones at Announcement                                               DJDA                           
+Dow Jones at Yesterday's Date                                           DJDPS                          
+Dutch Auction Tender Flag (Y/N)                                         DUTCH                          
+EBIT Last Twelve Months ($ Mil)                                         EBIT                           
+EBIT Last Twelve Months (Euro mil)                                      EURO_EBITLTM                   
+EBIT Last Twelve Months (Host Mil)                                      HOSTEBITLTM                    
+EBIT Margin (%)                                                         EBITMARG                       
+EBITDA 1 Year Prior ($ Mil)                                             CF1                            
+EBITDA 1 Year Prior (Host Mil)                                          HOSTCASHFLOW1                  
+EBITDA 2 Years Prior ($ Mil)                                            CF2                            
+EBITDA 2 Years Prior (Host Mil)                                         HOSTCASHFLOW2                  
+EBITDA 3 Year Growth Rate (%)                                           CF3YGR                         
+EBITDA 3 Years Prior ($ Mil)                                            CF3                            
+EBITDA 3 Years Prior (Host Mil)                                         HOSTCASHFLOW3                  
+EBITDA 4 Years Prior ($ Mil)                                            CF4                            
+EBITDA 4 Years Prior (Host Mil)                                         HOSTCASHFLOW4                  
+EBITDA 5 Year Growth Rate (%)                                           CF5YGR                         
+EBITDA 5 Years Prior ($ Mil)                                            CF5                            
+EBITDA 5 Years Prior (Host Mil)                                         HOSTCASHFLOW5                  
+EBITDA Last Twelve Months ($ Mil)                                       CF                             
+EBITDA Last Twelve Months (Euro mil)                                    EURO_CASHFLOW                  
+EBITDA Last Twelve Months (Host Mil)                                    HOSTCASHFLOW                   
+EBITDA Margin (%)                                                       CFMARG                         
+EBITDA Most Recent Quarter ($ Mil)                                      CFLQ                           
+EBITDA Same Quarter 1 Year Prior ($ Mil)                                CFFQ                           
+EC Status                                                               STATUS_EUC                     
+Employee Participation Flag (Y/N)                                       EMP                            
+Employee Stock Ownership Plan Flag (Y/N)                                ESOP                           
+Enterprise Value at Announcement ($ mil)                                ENTVALANN                      
+Enterprise Value at Announcement (Euro mil)                             EURO_ENTVALANN                 
+Enterprise Value at Announcement (Host mil)                             HOSTENTVALANN                  
+Enterprise Value at Effective Date ($ Mil)                              ENTVAL2                        
+Enterprise Value at Effective Date (Euro mil)                           EURO_ENTVAL2                   
+Enterprise Value at Effective Date (Host Mil)                           HOST_ENTVAL2                   
+Enterprise Value Based on Financials  (Euro mil)                        EURO_ENTVAL                    
+Enterprise Value Based on Financials ($ Mil)                            ENTVAL                         
+Enterprise Value Based on Financials (Host Mil)                         HOSTENTVAL                     
+EPS 5 Year Growth Rate (%)                                              EPS5YGR                        
+EPS Last Twelve Months ($)                                              EPS                            
+EPS Last Twelve Months (Euro)                                           EURO_EPSLTM                    
+EPS Last Twelve Months (Host)                                           HOSTEPSLTM                     
+Equity Carveout Flag (Y/N)                                              EQUITY_CARVEOUT                
+Equity Value at Announcement ($ mil)                                    EQVALANN                       
+Equity Value at Announcement (Euro mil)                                 EURO_EQVALANN                  
+Equity Value at Announcement (Host mil)                                 HOSTEQVALANN                   
+Equity Value at Effective Date in Euro                                  EURO_EQVAL2                    
+Escrow (Y/N)                                                            ESCROW                         
+Escrow Agent Code                                                       ESCROW_AGENT_CODE              
+Escrow Agent Parent Code                                                ESCROW_AGENT_PARENT_CODE       
+Estimated Acquiror Effective Income Tax Rate                            AEST_INCOME_TAX_RATE           
+Estimated Pro Forma EPS After Synergies Flag                            EXP_PROFORMA_EPS               
+Exchange Offer Flag (Y/N)                                               EO                             
+Exchange Rate                                                           RATE                           
+Exchange Rate Date                                                      EXCHRATE_DATE                  
+Exchange Rate for Target Company Values                                 TRATE                          
+Exchange Rate Ratio                                                     EXRATIO                        
+Expected Accretive Date                                                 EXP_ACCRETIVE_DATE             
+Expected Accretive/Dilutive Type                                        EXP_ACCDIL_TYPE                
+Expected Pro Forma EPS After Synergies ($)                              PROFORMA_EPS                   
+Expected Pro Forma EPS After Synergies (Host)                           AHOST_EXP_PROFORMA_EPS         
+Expected Synergies After Taxes ($ mil)                                  AFTERTAX_SYNERGIES             
+Expected Synergies After Taxes (Host mil)                               AHOST_AFTERTAX_SYNERGIES       
+Expected Synergies Before Taxes ($ mil)                                 PRETAX_SYNERGIES               
+Expected Synergies Before Taxes (Host mil)                              AHOST_PRETAX_SYNERGIES         
+Expected Synergy Date                                                   EXP_SYNERGY_DATE               
+Failed Bank Flag (Y/N)                                                  FBNK                           
+Fairness Opinion Advisor on Buy/Sellside(Acquiror/Target)               BAA_BACODE_FO                  
+Fairness Opinion Advisor on Buyside(Acquiror)                           AAA_AACODE_FO                  
+Fairness Opinion Advisor on Sellside(Target)                            TAA_TACODE_FO                  
+Fairness Opinion Author (Code)                                          FO_AUTHORC                     
+Fairness Opinion Date                                                   FO_DATE                        
+Fairness Opinion Source Date                                            FO_SOURCE_DATE                 
+Fairness Opinion Source Type (Code)                                     FO_SOURCE_TYPEC                
+Fiduciary Termination Reason (Code)                                     FIDUC_TERM_REASON              
+Fiduciary Termination Right (Y/N)                                       FIDUC_TERM_RIGHT               
+Financial Acquiror Flag (Y/N)                                           MERCHANT                       
+Financial Advisor to Acquiror Retaining Legal Counsel                   AADVISORLEGALCODE              
+Financial Advisor to Target Retaining Legal Counsel                     TADVISORLEGALCODE              
+Financial Sponsor Involvement Flag (Y/N)                                FINANCIAL_INVOLV_YN            
+Financial Sponsor Name/CUSIP                                            FIN_SPONSOR_CUSIP              
+Financial Sponsor Role                                                  FIN_SPONSOR_ROLE               
+Financials Completed Flag (Y/N)                                         FINDONE                        
+Financials Footnote (Line 1)                                            FOOT                           
+Financials Footnote (Line 2)                                            FOOT2                          
+Financials Footnote (Line 3)                                            FOOT3                          
+Financing Out Description (UPPER CASE)                                  FINANCING_OUT_TEXT_UPPER       
+Financing Out Flag (Y/N)                                                FINANCING_OUT                  
+Financing via Borrowings Flag (Y/N)                                     SFB                            
+Financing via Bridge Loans Flag (Y/N)                                   SFBR                           
+Financing via Common Stock Offering Flag (Y/N)                          SFC                            
+Financing via Debt Securities Flag (Y/N)                                SFD                            
+Financing via Foreign Lender Flag (Y/N)                                 SFF                            
+Financing via Internal Corporate Funds Flag (Y/N)                       SFCORP                         
+Financing via Junk Bonds Flag (Y/N)                                     SFJ                            
+Financing via Line of Credit Flag (Y/N)                                 SFLC                           
+Financing via Mezzanine Credit Flag (Y/N)                               SFMEZ                          
+Financing via Preferred Stock Offering Flag (Y/N)                       SFP                            
+Financing via Rights Offering Flag (Y/N)                                SFRIGHTS                       
+Financing via Staple Offering                                           SFSTAPLE                       
+Firm Value ($ Mil)                                                      FIRMVAL                        
+Firm Value (Euro mil)                                                   EMU_HOST_FIRMVAL               
+Firm Value (Host Mil)                                                   HOST_FIRMVAL                   
+Forced-Vote Provisions (UPPER CASE)                                     FORCED_VOTE_TEXT_UPPER         
+Forced-vote provisions Flag (Y/N)                                       FORCED_VOTE                    
+Forecasted EBIT Current Fiscal Year ($ Mil)                             FORECASTEDEBIT1                
+Forecasted EBIT Current Fiscal Year (Euro Mil)                          EURO_FORECASTEDEBIT1           
+Forecasted EBIT Current Fiscal Year (Host Mil)                          HOSTFORECASTEDEBIT1            
+Forecasted EBIT Next Twelve Months ($ Mil)                              FORECASTEDEBITNTM              
+Forecasted EBIT Next Twelve Months (Euro Mil)                           EURO_FORECASTEDEBITNTM         
+Forecasted EBIT Next Twelve Months (Host Mil)                           HOSTFORECASTEDEBITNTM          
+Forecasted EBIT Year Two ($ Mil)                                        FORECASTEDEBIT2                
+Forecasted EBIT Year Two (Euro Mil)                                     EURO_FORECASTEDEBIT2           
+Forecasted EBIT Year Two (Host Mil)                                     HOSTFORECASTEDEBIT2            
+Forecasted EBITDA Current Fiscal Year ($ Mil)                           FORECASTEDCF1                  
+Forecasted EBITDA Current Fiscal Year (Euro Mil)                        EURO_FORECASTEDCASHFLOW1       
+Forecasted EBITDA Current Fiscal Year (Host Mil)                        HOSTFORECASTEDEBITDA1          
+Forecasted EBITDA Next Twelve Months (Euro Mil)                         EURO_FORECASTEDCASHFLOWNTM     
+Forecasted EBITDA Next Twelve Months (Host Mil)                         HOSTFORECASTEDEBITDANTM        
+Forecasted EBITDA Next Twelve Months($ Mil)                             FORECASTEDCFNTM                
+Forecasted EBITDA Year Two ($ Mil)                                      FORECASTEDCF2                  
+Forecasted EBITDA Year Two (Euro Mil)                                   EURO_FORECASTEDCASHFLOW2       
+Forecasted EBITDA Year Two (Host Mil)                                   HOSTFORECASTEDEBITDA2          
+Forecasted EPS Current Fiscal Year ($ Mil)                              FORECASTEDEPS1                 
+Forecasted EPS Current Fiscal Year (Euro Mil)                           EURO_FORECASTEDEPS1            
+Forecasted EPS Current Fiscal Year (Host Mil)                           HOSTFORECASTEDEPS1             
+Forecasted EPS Next Twelve Months ($ Mil)                               FORECASTEDEPSNTM               
+Forecasted EPS Next Twelve Months (Euro Mil)                            EURO_FORECASTEDEPSNTM          
+Forecasted EPS Next Twelve Months (Host Mil)                            HOSTFORECASTEDEPSNTM           
+Forecasted EPS Year Two ($ Mil)                                         FORECASTEDEPS2                 
+Forecasted EPS Year Two (Euro Mil)                                      EURO_FORECASTEDEPS2            
+Forecasted EPS Year Two (Host Mil)                                      HOSTFORECASTEDEPS2             
+Forecasted Net Income Current Fiscal Year ($ Mil)                       FORECASTEDNI1                  
+Forecasted Net Income Current Fiscal Year (Euro Mil)                    EURO_FORECASTEDNI1             
+Forecasted Net Income Current Fiscal Year (Host Mil)                    HOSTFORECASTEDNI1              
+Forecasted Net Income Next Twelve Months ($ Mil)                        FORECASTEDNINTM                
+Forecasted Net Income Next Twelve Months (Euro Mil)                     EURO_FORECASTEDNINTM           
+Forecasted Net Income Next Twelve Months (Host Mil)                     HOSTFORECASTEDNINTM            
+Forecasted Net Income Year Two ($ Mil)                                  FORECASTEDNI2                  
+Forecasted Net Income Year Two (Euro Mil)                               EURO_FORECASTEDNI2             
+Forecasted Net Income Year Two (Host Mil)                               HOSTFORECASTEDNI2              
+Forecasted Net Sales Current Fiscal Year ($ Mil)                        FORECASTEDSALES1               
+Forecasted Net Sales Current Fiscal Year (Euro Mil)                     EURO_FORECASTEDSALES1          
+Forecasted Net Sales Current Fiscal Year (Host Mil)                     HOSTFORECASTEDSALES1           
+Forecasted Net Sales Next Twelve Months ($ Mil)                         FORECASTEDSALESNTM             
+Forecasted Net Sales Next Twelve Months (Euro Mil)                      EURO_FORECASTEDSALESNTM        
+Forecasted Net Sales Next Twelve Months (Host Mil)                      HOSTFORECASTEDSALESNTM         
+Forecasted Net Sales Year Two ($ Mil)                                   FORECASTEDSALES2               
+Forecasted Net Sales Year Two (Euro Mil)                                EURO_FORECASTEDSALES2          
+Forecasted Net Sales Year Two (Host Mil)                                HOSTFORECASTEDSALES2           
+Forecasted Pre-Tax Income Current Fiscal Year ($ Mil)                   FORECASTEDPTINC1               
+Forecasted Pre-Tax Income Current Fiscal Year (Euro Mil)                EURO_FORECASTEDPTINC1          
+Forecasted Pre-Tax Income Current Fiscal Year (Host Mil)                HOSTFORECASTEDPTINC1           
+Forecasted Pre-Tax Income Next Twelve Months ($ Mil)                    FORECASTEDPTINCNTM             
+Forecasted Pre-Tax Income Next Twelve Months (Euro Mil)                 EURO_FORECASTEDPTINCNTM        
+Forecasted Pre-Tax Income Next Twelve Months (Host Mil)                 HOSTFORECASTEDPTINCNTM         
+Forecasted Pre-Tax Income Year Two ($ Mil)                              FORECASTEDPTINC2               
+Forecasted Pre-Tax Income Year Two (Euro Mil)                           EURO_FORECASTEDPTINC2          
+Forecasted Pre-Tax Income Year Two (Host Mil)                           HOSTFORECASTEDPTINC2           
+Form of the Deal (Code)                                                 FORMC                          
+Formation of a Limited Partnership Flag (Y/N)                           FLP                            
+Freeman - Acquiror Imputed Deal Fee ($Mil)                              FREEMAN_ACQ_TOTAL_FEE          
+Freeman - Acquiror Imputed Deal Fee (AU$Mil)                            FREEMAN_ACQ_TOTAL_FEE_AUD      
+Freeman - Acquiror Imputed Deal Fee (EURO)                              FREEMAN_ACQ_TOTAL_FEE_EURO     
+Freeman - Acquiror Imputed Deal Fee (STG)                               FREEMAN_ACQ_TOTAL_FEE_STG      
+Freeman - Acquiror Imputed Deal Fee (Yen)                               FREEMAN_ACQ_TOTAL_FEE_YEN      
+Freeman - Imputed Fees per Investor ($Mil)                              FREEMAN_INV_FEES               
+Freeman - Imputed Fees per Investor (AU$Mil)                            FREEMAN_INV_FEES_AUD           
+Freeman - Imputed Fees per Investor (EURO)                              FREEMAN_INV_FEES_EURO          
+Freeman - Imputed Fees per Investor (STG)                               FREEMAN_INV_FEES_STG           
+Freeman - Imputed Fees per Investor (Yen)                               FREEMAN_INV_FEES_YEN           
+Freeman - Target Imputed Deal Fee ($Mil)                                FREEMAN_TARGET_TOTAL_FEE       
+Freeman - Target Imputed Deal Fee (AU$Mil)                              FREEMAN_TARGET_TOTAL_FEE_AUD   
+Freeman - Target Imputed Deal Fee (EURO)                                FREEMAN_TARGET_TOTAL_FEE_EURO  
+Freeman - Target Imputed Deal Fee (STG)                                 FREEMAN_TARGET_TOTAL_FEE_STG   
+Freeman - Target Imputed Deal Fee (Yen)                                 FREEMAN_TARGET_TOTAL_FEE_YEN   
+Freeman - Total Imputed Deal Fees ($Mil)                                FREEMAN_TOTAL_FEES             
+Freeman - Total Imputed Deal Fees (AU$Mil)                              FREEMAN_TOTAL_FEES_AUD         
+Freeman - Total Imputed Deal Fees (EURO)                                FREEMAN_TOTAL_FEES_EURO        
+Freeman - Total Imputed Deal Fees (STG)                                 FREEMAN_TOTAL_FEES_STG         
+Freeman - Total Imputed Deal Fees (Yen)                                 FREEMAN_TOTAL_FEES_YEN         
+Gendate                                                                 GENDATE                        
+Go Shop Flag (Y/N)                                                      GOSHOP_FLAG                    
+Go Shop Period End Date                                                 GOSHOP_DATE                    
+Going Private Flag (Y/N)                                                GPRIV                          
+Goodwill 1 Year Prior ($ Mil)                                           GWIL1                          
+Goodwill 2 Years Prior ($ Mil)                                          GWIL2                          
+Goodwill 3 Years Prior ($ Mil)                                          GWIL3                          
+Goodwill 4 Years Prior ($ Mil)                                          GWIL4                          
+Goodwill 5 Years Prior ($ Mil)                                          GWIL5                          
+Goodwill Last Twelve Months ($ Mil)                                     GWIL                           
+Goodwill Most Recent Quarter ($ Mil)                                    GWILLQ                         
+Goodwill Same Quarter 1 Year Prior ($ Mil)                              GWILFQ                         
+Government Owned Involvement Flag (Y/N)                                 GOV_OWN_INVOLV_YN              
+Higher of Target or Acquirer Termination Fees ($ Mil)                   TERMF                          
+Higher of Target or Acquirer Termination Fees (Host Mil)                HOSTTERMFEE                    
+Higher of Target or Acquirer Termination Fees as % of Value             TERMFPCT                       
+History Event Acquiror Long Name                                        HANL                           
+History Event Acquiror Short Name                                       HAN                            
+History Event Currency (Code)                                           HCURR_CODE                     
+History Event Date                                                      HDATE                          
+History Event Date of Exchange Rate                                     HEXCHRATE_DATE                 
+History Event Date Share Price ($)                                      HPR                            
+History Event Date Share Price (Host)                                   HOSTHPRICE                     
+History Event Date Value of Transaction ($ Mil)                         HVAL                           
+History Event Description (Text Paragraph)                              HEVENT                         
+History Event Exchange Rate                                             HRATE                          
+History Event File Sequence Number                                      HCODESEQ                       
+History Event Target Long Name                                          HTNL                           
+History Event Value of Transaction (Host Mil)                           HOSTHVAL                       
+Implied Deal Value ($ Mil)                                              VALIMP                         
+Implied Deal Value (Euro mil)                                           EURO_VALIMP                    
+Implied Deal Value (Host Mil)                                           HOSTVALIMP                     
+Implied Equity Value and Implied Enterprise Value Available Y/N Flag    IMPL_EQENTVAL_YN               
+Indemnification - D&O Insurance Flag (Y/N)                              INDEMN_DO                      
+Indemnification - D&O Insurance Premium Limit                           INDEMN_DO_LIMIT                
+Indemnification - D&O Insurance Type (Code)                             INDEMN_DO_TYPE                 
+Indemnification - D&O Protection Period                                 INDEMN_DO_YEARS                
+Indemnification - Other D&O Insurance (UPPER CASE)                      INDEMN_DO_TEXT_UPPER           
+Indemnification - Other than D&O (Y/N)                                  INDEMN_NON_DO                  
+Information Agent (Codes)                                               IAGENTC                        
+Initial Offer Price ($)                                                 PR_INITIAL                     
+Initial Reception (Code)                                                INITIAL_RECCODE                
+Insurance Premiums ($ Mil)                                              PREMIUMS                       
+Insurance Premiums (Host Mil)                                           HOSTPREMIUMS                   
+Intangible Assets Last Twelve Months ($ Mil)                            IASS                           
+Intangible Assets Last Twelve Months (Host Mil)                         HOSTIASS                       
+Investor                                                                ICUTIC                         
+Investor (Codes)                                                        ICODE                          
+Investor 6-digit CUSIPs                                                 INVCUSIP                       
+Investor Australian Stock Exchange Industry (Code)                      INVASXC                        
+Investor Group Flag (Y/N)                                               INVGRP                         
+Investor Group Nation (Code)                                            IGNATC                         
+Investor Immediate Parent 6-digit Cusip                                 IIP                            
+Investor Immediate Parent Cidgen                                        IIPCIDGEN                      
+Investor Immediate Parent is a Financial Sponsor (Y/N)                  IIPFINANCIAL                   
+Investor is a Financial Sponsor Flag (Y/N)                              INVFINANCIAL                   
+Investor Macro Industry (Code)                                          INV_TTF_MACRO_CODE             
+Investor Mid Industry (Code)                                            INV_TTF_MID_CODE               
+Investor Names                                                          INV                            
+Investor Nation (Code)                                                  INVNATION_CODE                 
+Investor Percentage                                                     INV_PERCENT                    
+Investor Primary NAIC (Code)                                            INVNAICP                       
+Investor Primary SIC (Code)                                             INVSICP                        
+Investor Primary Venture Economics Industry (Code)                      IVEICP                         
+Investor Ultimate Parent 6-digit Cusip                                  INVUPCUSIP                     
+Investor Ultimate Parent Australian Stock Exchange Industry (Code)      INVUPASXC                      
+Investor Ultimate Parent CIDGEN                                         IUPCIDGEN                      
+Investor Ultimate Parent is a Financial Sponsor (Y/N)                   INVUPFINANCIAL                 
+Investor Ultimate Parent Macro Industry (Code)                          INV_TUP_MACRO_CODE             
+Investor Ultimate Parent Mid Industry (Code)                            INV_TUP_MID_CODE               
+Investor Ultimate Parent Nation (Code)                                  IUPNATION_CODE                 
+Investor Ultimate Parent Primary NAIC (Code)                            INVUPNAICP                     
+Investor Ultimate Parent Primary Venture Economics Industry (Code)      IUPVEICP                       
+Investor Ultimate Parent SIC (Code)                                     IUPSICP                        
+Investor Ultimate Parent Venture Economics Industry (Code)              IUPVEIC                        
+Investor Venture Economics Industry (Code)                              IVEIC                          
+IPO 6-digit CUSIP                                                       IPOCUS                         
+IPO Company Name                                                        IPOISS                         
+IPO Date after LBO                                                      DIPO                           
+IPO Ultimate Parent CIDGEN                                              IPOUPCIDGEN                    
+Joint Venture Flag (Y/N)                                                JV                             
+Leveraged Buyout Flag (Y/N)                                             LBO                            
+Liquidation Flag (Y/N)                                                  LIQ                            
+Litigation Delay Flag (Y/N)                                             LITD                           
+Litigation Flag (Y/N)                                                   LIT                            
+Loan Modification Flag                                                  LOAN_MODIFY                    
+Lockup Description (Text Paragraph)                                     LOCKUPD                        
+Long Term Debt 1 Year Prior (Host Mil)                                  HOSTLTD1                       
+Long Term Debt 2 Years Prior (Host Mil)                                 HOSTLTD2                       
+Long Term Debt 3 Years Prior (Host Mil)                                 HOSTLTD3                       
+Long Term Debt 4 Years Prior (Host Mil)                                 HOSTLTD4                       
+Long Term Debt 5 Years Prior (Host Mil)                                 HOSTLTD5                       
+Long Term Debt Last Twelve Months ($ Mil)                               LTD                            
+Long Term Debt Last Twelve Months (Host Mil)                            HOSTLTD                        
+Long Term Liabilities Last Twelve Months (Host Mil)                     HOSTLTLIA                      
+Lowest Share Price Paid by Acquiror for Target Shares ($)               PRL                            
+Lowest Share Price Paid by Acquiror for Target Shares (Euro)            EURO_PRLOW                     
+Lowest Share Price Price Paid by Acquiror for Target Shares (Host)      HOSTPRLOW                      
+M&A Acquiror Advisor Multiple                                           AMULT                          
+M&A Financial Advisor and Mutliple Explanation                          MULT_NOTES1                    
+M&A Multiple (e.g. Amount Allocated to Each Advisor)                    MA_MULT                        
+M&A Target Advisor Multiple                                             TMULT                          
+M&A Type (Code)                                                         MATYPECODE                     
+Majority-Owned Portfolio Company Cusip                                  MAJORITY_PORT_COMP_CUSIP       
+Majority-Owned Portfolio Company Role                                   MAJORITY_PORT_COMP_ROLE        
+Management Participation Flag (Y/N)                                     MGMT                           
+Mandatory Offering Flag (Y/N)                                           MANDOFF                        
+Merger of Equals Flag (Y/N)                                             MOE                            
+Minimum Shares Required as Condition to Tender Offer (Mil)              CMIN                           
+Minority Interest Last Twelve Months ($ Mil)                            MININT                         
+Minority Interest Last Twelve Months (Euro Mil)                         EMU_HOSTMINORITYINTEREST       
+Minority Interest Last Twelve Months (Host Mil)                         HOSTMINORITYINT                
+Nasdaq at Announcement                                                  NASDA                          
+Nasdaq at Yesterday's Date                                              NASDPS                         
+Net Assets 1 Year Prior ($ Mil)                                         NETASS1                        
+Net Assets 1 Year Prior (Host Mil)                                      HOSTNETASS1                    
+Net Assets 2 Years Prior ($ Mil)                                        NETASS2                        
+Net Assets 2 Years Prior (Host Mil)                                     HOSTNETASS2                    
+Net Assets 3 Year Growth Rate (%)                                       NETASS3YGR                     
+Net Assets 3 Years Prior ($ Mil)                                        NETASS3                        
+Net Assets 3 Years Prior (Host Mil)                                     HOSTNETASS3                    
+Net Assets 4 Years Prior ($ Mil)                                        NETASS4                        
+Net Assets 4 Years Prior (Host Mil)                                     HOSTNETASS4                    
+Net Assets 5 Year Growth Rate (%)                                       NETASS5YGR                     
+Net Assets 5 Years Prior ($ Mil)                                        NETASS5                        
+Net Assets 5 Years Prior (Host Mil)                                     HOSTNETASS5                    
+Net Assets Last Twelve Months ($ Mil)                                   NETASS                         
+Net Assets Last Twelve Months (Host Mil)                                HOSTNETASS                     
+Net Cash from Financing 1 Year Prior ($ Mil)                            FINCASH1                       
+Net Cash from Financing 2 Years Prior ($ Mil)                           FINCASH2                       
+Net Cash from Financing 3 Years Prior ($ Mil)                           FINCASH3                       
+Net Cash from Financing 4 Years Prior ($ Mil)                           FINCASH4                       
+Net Cash from Financing 5 Years Prior ($ Mil)                           FINCASH5                       
+Net Cash from Financing Last Twelve Months ($ Mil)                      FINCASH                        
+Net Cash from Financing Most Recent Quarter ($ Mil)                     FINCASHLQ                      
+Net Cash from Financing Same Quarter 1 Year Prior ($ Mil)               FINCASHFQ                      
+Net Cash from Investments 1 Year Prior ($ Mil)                          INVCASH1                       
+Net Cash from Investments 2 Years Prior ($ Mil)                         INVCASH2                       
+Net Cash from Investments 3 Years Prior ($ Mil)                         INVCASH3                       
+Net Cash from Investments 4 Years Prior ($ Mil)                         INVCASH4                       
+Net Cash from Investments 5 Years Prior ($ Mil)                         INVCASH5                       
+Net Cash from Investments Last Twelve Months ($ Mil)                    INVCASH                        
+Net Cash from Investments Most Recent Quarter ($ Mil)                   INVCASHLQ                      
+Net Cash from Investments Same Quarter 1 Year Prior ($ Mil)             INVCASHFQ                      
+Net Cash from Operations 1 Year Prior ($ Mil)                           OPCASH1                        
+Net Cash from Operations 2 Years Prior ($ Mil)                          OPCASH2                        
+Net Cash from Operations 3 Years Prior ($ Mil)                          OPCASH3                        
+Net Cash from Operations 4 Years Prior ($ Mil)                          OPCASH4                        
+Net Cash from Operations 5 Years Prior ($ Mil)                          OPCASH5                        
+Net Cash from Operations Last Twelve Months ($ Mil)                     OPCASH                         
+Net Debt Last Twelve Months ($ Mil)                                     NETDEBT                        
+Net Debt Last Twelve Months (host mil)                                  HOSTNETDEBT                    
+Net Income 3 Year Growth Rate (%)                                       NI3YGR                         
+Net Income 5 Year Growth Rate (%)                                       NI5YGR                         
+Net Income Last Twelve Months ($ Mil)                                   NI                             
+Net Income Last Twelve Months (Euro mil)                                EURO_NILTM                     
+Net Income Last Twelve Months (Host Mil)                                HOSTNILTM                      
+Net Interest Income Last Twelve Months (Host Mil)                       HOSTNETINTINCOMELTM            
+Net Sales 5 Year Growth Rate (%)                                        SALES5YGR                      
+Net Sales Last Twelve Months ($ Mil)                                    SALES                          
+Net Sales Last Twelve Months (Euro mil)                                 EURO_SALESLTM                  
+Net Sales Last Twelve Months (Host Mil)                                 HOSTSALESLTM                   
+Number of Acquiror Financial Advisors                                   AACOUNT                        
+Number of Acquiror Stock Exchange Listings                              NAEXCH                         
+Number of Acquiror Ultimate Parent Stock Exchange Listings              NAPAEXCH                       
+Number of Bidders                                                       BIDCOUNT                       
+Number of Consideration Types Offered                                   COUNT_CONSIDO                  
+Number of Consideration Types Sought                                    COUNT_CONSIDS                  
+Number of Cvt Securities that are Convertible into Common Stock         CONVERTIBLES                   
+Number of Days between Date Announced and Rank Date                     RANKDATE_DAYS                  
+Number of Days between Date Originally Announced and Date Announced     DATEANNORIG_DAYS               
+Number of days between IPO and Acquisition                              NUM_DAYS_IPO_TO_ACQ            
+Number of Fairness Opinions Available                                   FO_COUNT                       
+Number of Investors                                                     INVESTORCOUNT                  
+Number of Stock Options Reserved for Issuance (Mil)                     OPTIONS                        
+Number of Target & Acquiror Financial Advisors                          ADVCOUNT                       
+Number of Target Financial Advisors                                     TACOUNT                        
+Number of Target or Acquiror Legal Advisors                             NUMTLEGALEG                    
+Number of Target Stock Exchange Listings                                NTEXCH                         
+Number of Target Ultimate Parent Stock Exchange Listings                NTPAEXCH                       
+Number of Tender Offer Extensions                                       EXTEN                          
+Offer Price to Target Stock Price Prem. 4 Weeks Prior to Announcement   PREM4WK                        
+Offer Price to Target Stock Price Premium 1 Day Prior to Announcement   PREM1DAY                       
+Offer Price to Target Stock Price Premium 1 Week Prior to Announcement  PREM1WK                        
+Open Market Purchase Flag (Y/N)                                         OMKT                           
+Ordinary Shares Irrevocably Committed to Tender Offer (Mil)             ORDSHSIRVC                     
+Other Fiduciary Termination Basis (UPPER CASE)                          FIDUC_TERM_OTHER_UPPER         
+Outcome (Code)                                                          OUTC                           
+Passenger Miles Flown (Mil)                                             MILES                          
+Percent Change Final Offer Price to Initial Offer Price                 PRPCTCHG                       
+Percent of Acquiror Shares Issued                                       PCTSHSISS                      
+Percent of Shares Acquired in Transaction                               PCTACQ                         
+Percent of Shares Acquiror is Seeking to Own after Transaction          PSOUGHTOWN                     
+Percent of Shares Acquiror is Seeking to Purchase in Transaction        PSOUGHT                        
+Percent of Shares Held at Announcement                                  PHDA                           
+Percent of Shares Held by Acquiror 6 Months Prior to Announcement       PHELD                          
+Percent of Shares Owned after Transaction                               PCTOWN                         
+Percent of Shares Sought in Tender Offer                                PSOUGHTT                       
+Percent of Shares Tendered in Tender Offer                              PTEN                           
+Percent of Voting Control Acquired in Transaction                       VOTECONTROL                    
+Percent Owned by Acquiror Post Merger                                   A_POSTMERGE_OWN_PCT            
+Percent Owned by Target Post Merger                                     T_POSTMERGE_OWN_PCT            
+Percentage of Cash                                                      PCT_CASH                       
+Percentage of Other                                                     PCT_OTHER                      
+Percentage of Stock                                                     PCT_STK                        
+Percentage of Unknown                                                   PCT_UNKNOWN                    
+Pooling of Interests Flag (Y/N)                                         POOLING                        
+Portfolio Company Activity Flag (Y/N)                                   PORTFOLIO_INVOLV_YN            
+Portfolio Company Cusip                                                 PORTFOLIO_COMPANY_CUSIP        
+Portfolio Company Role                                                  PORTFOLIO_COMPANY_ROLE         
+Preference Share Price ($)                                              PRPREF                         
+Preference Share Price of Alternative Offer ($)                         PRALTPREF                      
+Preference Shares Accepted (Mil)                                        PREFACC                        
+Preference Shares Outstanding (Mil)                                     PREFOUT                        
+Preference Shares Tendered (Mil)                                        PREFTEN                        
+Preferred Dividends Last Twelve Months (Host Mil)                       HOSTPFDDVLTM                   
+Preferred Dividends LTM ($ mil)                                         PFDDVLTM                       
+Preferred Equity Last Twelve Months ($ Mil)                             PFDEQ                          
+Preferred Equity Last Twelve Months (Euro Mil)                          EURO_PFDEQUITY                 
+Preferred Equity Last Twelve Months (Host Mil)                          HOSTPFDEQUITY                  
+Pre-Tax Income 3 Year Growth Rate (%)                                   PTINC3YGR                      
+Pre-Tax Income 5 Year Growth Rate (%)                                   PTINC5YGR                      
+Pre-tax Income Last Twelve Months ($ Mil)                               PTINC                          
+Pre-Tax Income Last Twelve Months (Euro mil)                            EURO_PTINCLTM                  
+Pre-Tax Income Last Twelve Months (Host Mil)                            HOSTPTINCLTM                   
+Primary Escrow % of Rank Value                                          ESCROW1_PCT                    
+Primary Escrow Basis (UPPER CASE)                                       ESCROW1_BASIS_UPPER            
+Primary Escrow Period (Months)                                          ESCROW1_PERIOD                 
+Primary Escrow Total (Host)                                             ESCROW1_AMT                    
+Primary Escrow Total (USD)                                              ESCROW1_AMT_USD                
+Private Tender Offer                                                    PTO                            
+Privately Negotiated Purchase Flag (Y/N)                                PRIVNEG                        
+Privatization Flag (Y/N)                                                PRIVATIZATION                  
+Property, Plant & Equip 1 Year Prior ($ Mil)                            PPE1                           
+Property, Plant & Equip 2 Years Prior ($ Mil)                           PPE2                           
+Property, Plant & Equip 3 Years Prior ($ Mil)                           PPE3                           
+Property, Plant & Equip 4 Years Prior ($ Mil)                           PPE4                           
+Property, Plant & Equip 5 Years Prior ($ Mil)                           PPE5                           
+Property, Plant & Equip Most Recent Quarter ($ Mil)                     PPELQ                          
+Property, Plant & Equip Same Quarter 1 Year Prior ($ Mil)               PPEFQ                          
+Property, Plant & Equipment ($ Mil)                                     PPE                            
+Proxy Fight Flag (Y/N)                                                  PROXYF                         
+Purpose Code                                                            PURPOSE_CODE                   
+Rank Date                                                               R_DATE                         
+Rank Value inc. Net Debt of Target (Yen mil)                            RANK_RANKYENVAL                
+Ranking Ineligible Flag (Y/N)                                           RANK_FA_INELIGIBLE             
+Ranking Value Flag (Y/N)                                                RANKVAL_FLAG                   
+Ranking Value inc. Net Debt of Target ($ Mil)                           RANK_RANKVAL                   
+Ranking Value inc. Net Debt of Target ($Mil)                            RANKVAL                        
+Ranking Value inc. Net Debt of Target (Euro mil)                        EURO_RANKVAL                   
+Ranking Value inc. Net Debt of Target (Host mil)                        HOST_RANKVAL                   
+Ranking Value inc. Net Debt of Target (Pounds Sterling)                 RANK_RANKSTGVAL                
+Ranking Value inc. Net Debt of Target at Effective Date ($ Mil)         RANKVALEFF                     
+Ratio of Deal Val exc. Assum Liab to Forecast EBIT Current Fisc Yr      VALNOLIAFORECASTEDEBIT1        
+Ratio of Deal Val exc. Assum Liab to Forecast EBIT Next 12 Months       VALNOLIAFORECASTEDEBITNTM      
+Ratio of Deal Val exc. Assum Liab to Forecast EBITDA Current Fisc Yr    VALNOLIAFORECASTEDCF1          
+Ratio of Deal Val exc. Assum Liab to Forecast EBITDA Next 12 Months     VALNOLIAFORECASTEDCFNTM        
+Ratio of Deal Val exc. Assum Liab to Forecast EBITDA Yr 2               VALNOLIAFORECASTEDCF2          
+Ratio of Deal Val exc. Assum Liab to Forecast Net Inc Current Fisc Yr   VALNOLIAFORECASTEDNI1          
+Ratio of Deal Val exc. Assum Liab to Forecast Net Inc Next 12 Months    VALNOLIAFORECASTEDNINTM        
+Ratio of Deal Val exc. Assum Liab to Forecast Net Inc Yr 2              VALNOLIAFORECASTEDNI2          
+Ratio of Deal Val exc. Assum Liab to Forecast PreTax Inc Curr Fisc Yr   VALNOLIAFORECASTEDPTINC1       
+Ratio of Deal Val exc. Assum Liab to Forecast PreTax Inc Nxt 12 Mths    VALNOLIAFORECASTEDPTINCNTM     
+Ratio of Deal Val exc. Assum Liab to Forecast PreTax Inc Yr 2           VALNOLIAFORECASTEDPTINC2       
+Ratio of Deal Val exc. Assum Liab to Forecast Sales Current Fisc Yr     VALNOLIAFORECASTEDSALES1       
+Ratio of Deal Val exc. Assum Liab to Forecast Sales Next 12 Months      VALNOLIAFORECASTEDSALESNTM     
+Ratio of Deal Value exc. Assumed Liabilities to EBIT                    VALNOLIAEBIT                   
+Ratio of Deal Value exc. Assumed Liabilities to EBITDA                  VALNOLIACF                     
+Ratio of Deal Value exc. Assumed Liabilities to Forecasted EBIT Year 2  VALNOLIAFORECASTEDEBIT2        
+Ratio of Deal Value exc. Assumed Liabilities to Forecasted Sales Year 2 VALNOLIAFORECASTEDSALES2       
+Ratio of Deal Value exc. Assumed Liabilities to Net Income              VALNOLIANI                     
+Ratio of Deal Value exc. Assumed Liabilities to Pre-Tax Income          VALNOLIAPTINC                  
+Ratio of Deal Value exc. Assumed Liabilities to Sales                   VALNOLIASALES                  
+Ratio of Deal Value to Common Equity                                    VALCOMEQ                       
+Ratio of Deal Value to EBIT                                             EBITMULT                       
+Ratio of Deal Value to EBITDA                                           CFMULT                         
+Ratio of Deal Value to Forecasted EBIT Current Fiscal Year              VALFORECASTEDEBITMULT1         
+Ratio of Deal Value to Forecasted EBIT Next Twelve Months               VALFORECASTEDEBITMULTNTM       
+Ratio of Deal Value to Forecasted EBIT Year 2                           VALFORECASTEDEBITMULT2         
+Ratio of Deal Value to Forecasted EBITDA Current Fiscal Year            VALFORECASTEDCFMULT1           
+Ratio of Deal Value to Forecasted EBITDA Next Twelve Months             VALFORECASTEDCFMULTNTM         
+Ratio of Deal Value to Forecasted EBITDA Year 2                         VALFORECASTEDCFMULT2           
+Ratio of Deal Value to Forecasted Net Income Current Fiscal Year        VALFORECASTEDNI1               
+Ratio of Deal Value to Forecasted Net Income Next Twelve Months         VALFORECASTEDNINTM             
+Ratio of Deal Value to Forecasted Net Income Year 2                     VALFORECASTEDNI2               
+Ratio of Deal Value to Forecasted Sales Current Fiscal Year             VALFORECASTEDSALES1            
+Ratio of Deal Value to Forecasted Sales Next Twelve Months              VALFORECASTEDSALESNTM          
+Ratio of Deal Value to Forecasted Sales Year 2                          VALFORECASTEDSALES2            
+Ratio of Deal Value to Net Assets                                       VALNA                          
+Ratio of Deal Value to Net Income                                       VALNI                          
+Ratio of Deal Value to Sales                                            VALSALES                       
+Ratio of EBIT to Assets 3 Year Growth Rate                              EBASSETS3YGR                   
+Ratio of EBIT to Return on Assets                                       EBITROA                        
+Ratio of EBIT to Sale 3 Year Growth Rate                                EBSALES3YGR                    
+Ratio of EBITDA to Return on Assets                                     CFROA                          
+Ratio of Enterprise Val to Forecasted Pre-Tax Income Current Fisc Yr    ENTVALFORECASTEDPTINC1         
+Ratio of Enterprise Val to Forecasted Pre-Tax Income Next 12 Months     ENTVALFORECASTEDPTINCNTM       
+Ratio of Enterprise Value at Effective Date to Assets                   EV2ASSC                        
+Ratio of Enterprise Value at Effective Date to EBIT                     EV2EBIT                        
+Ratio of Enterprise Value at Effective Date to EBITDA                   EV2CF                          
+Ratio of Enterprise Value at Effective Date to Sales                    EV2SALES                       
+Ratio of Enterprise Value to Capitalization                             EVCAP                          
+Ratio of Enterprise Value to EBIT                                       EVEBIT                         
+Ratio of Enterprise Value to EBITDA                                     EVCF                           
+Ratio of Enterprise Value to Forecasted EBIT Current Fiscal Year        ENTVALFORECASTEDEBIT1          
+Ratio of Enterprise Value to Forecasted EBIT Next Twelve Months         ENTVALFORECASTEDEBITNTM        
+Ratio of Enterprise Value to Forecasted EBIT Year 2                     ENTVALFORECASTEDEBIT2          
+Ratio of Enterprise Value to Forecasted EBITDA Current Fiscal Year      ENTVALFORECASTEDCF1            
+Ratio of Enterprise Value to Forecasted EBITDA Next Twelve Months       ENTVALFORECASTEDCFNTM          
+Ratio of Enterprise Value to Forecasted EBITDA Year 2                   ENTVALFORECASTEDCF2            
+Ratio of Enterprise Value to Forecasted Net Income Current Fiscal Year  ENTVALFORECASTEDNI1            
+Ratio of Enterprise Value to Forecasted Net Income Next Twelve Months   ENTVALFORECASTEDNINTM          
+Ratio of Enterprise Value to Forecasted Net Income Year 2               ENTVALFORECASTEDNI2            
+Ratio of Enterprise Value to Forecasted Pre-Tax Income Year 2           ENTVALFORECASTEDPTINC2         
+Ratio of Enterprise Value to Forecasted Sales Current Fiscal Year       ENTVALFORECASTEDSALES1         
+Ratio of Enterprise Value to Forecasted Sales Next Twelve Months        ENTVALFORECASTEDSALESNTM       
+Ratio of Enterprise Value to Forecasted Sales Year 2                    ENTVALFORECASTEDSALES2         
+Ratio of Enterprise Value to Net Assets                                 ENTVALNA                       
+Ratio of Enterprise Value to Net Income                                 EVNI                           
+Ratio of Enterprise Value to Pre-Tax Income                             ENTVALPTINC                    
+Ratio of Enterprise Value to Sales                                      EVSALES                        
+Ratio of Enterprise Value to Tangible Book Value                        EVTBV                          
+Ratio of Equity Value at Announcement to EBITDA                         EQVALCF                        
+Ratio of Equity Value at Effective Date to Common Equity                EQVAL2COMEQ                    
+Ratio of Equity Value at Effective Date to Net Income                   EQVAL2NI                       
+Ratio of Equity Value to Common Equity                                  EQVALCOMEQ                     
+Ratio of Equity Value to EBIT                                           EQVALEBIT                      
+Ratio of Equity Value to Forecasted EBIT Current Fiscal Year            EQVALFORECASTEDEBIT1           
+Ratio of Equity Value to Forecasted EBIT Next Twelve Months             EQVALFORECASTEDEBITNTM         
+Ratio of Equity Value to Forecasted EBIT Year 2                         EQVALFORECASTEDEBIT2           
+Ratio of Equity Value to Forecasted EBITDA Current Fiscal Year          EQVALFORECASTEDCF1             
+Ratio of Equity Value to Forecasted EBITDA Next Twelve Months           EQVALFORECASTEDCFNTM           
+Ratio of Equity Value to Forecasted EBITDA Year 2                       EQVALFORECASTEDCF2             
+Ratio of Equity Value to Forecasted Net Income Current Fiscal Year      EQVALFORECASTEDNI1             
+Ratio of Equity Value to Forecasted Net Income Next Twelve Months       EQVALFORECASTEDNINTM           
+Ratio of Equity Value to Forecasted Net Income Year 2                   EQVALFORECASTEDNI2             
+Ratio of Equity Value to Forecasted Pre-Tax Income Current Fiscal Year  EQVALFORECASTEDPTINC1          
+Ratio of Equity Value to Forecasted Pre-Tax Income Next Twelve Months   EQVALFORECASTEDPTINCNTM        
+Ratio of Equity Value to Forecasted Pre-Tax Income Year 2               EQVALFORECASTEDPTINC2          
+Ratio of Equity Value to Forecasted Sales Current Fiscal Year           EQVALFORECASTEDSALES1          
+Ratio of Equity Value to Forecasted Sales Next Twelve Months            EQVALFORECASTEDSALESNTM        
+Ratio of Equity Value to Forecasted Sales Year 2                        EQVALFORECASTEDSALES2          
+Ratio of Equity Value to Net Income                                     EQVALNI                        
+Ratio of Equity Value to Pre-Tax Income                                 EQVALPTINC                     
+Ratio of Equity Value to Sales                                          EQVALSALES                     
+Ratio of Firm Value to Assets minus Cash                                FVASSC                         
+Ratio of Firm Value to EBIT                                             FVEBIT                         
+Ratio of Firm Value to EBITDA                                           FVCFLOW                        
+Ratio of Firm Value to Sales                                            FVSALES                        
+Ratio of Implied Deal Value to Common Equity                            VIMCOMEQ                       
+Ratio of Implied Deal Value to Net Income                               VIMPNI                         
+Ratio of Implied Deal Value to Pre-Tax Income                           VIMPPTINC                      
+Ratio of Long Term Debt to Capitalization                               DCR                            
+Ratio of Long Term Debt to Shareholder's Equity                         DSER                           
+Ratio of Long Term Debt to Total Assets                                 LTDTASS                        
+Ratio of Market Price 4 Weeks Prior to Announcement to Book Value       MPRICEBOOK                     
+Ratio of Net Income to Shareholder's Equity                             ROE                            
+Ratio of Net Income to Shareholder's Equity 1 Year Prior                ROE1                           
+Ratio of Net Income to Shareholder's Equity 2 Years Prior               ROE2                           
+Ratio of Net Income to Total Assets                                     ROA                            
+Ratio of Net Income to Total Equity                                     ROEDBL                         
+Ratio of Offer Price to Book Value                                      PRICEBOOK                      
+Ratio of Offer Price to EPS                                             PE                             
+Ratio of Pre-Tax Income to Net Sales                                    PFTMARG                        
+Ratio of Price Book Premium to Book Value                               BVPREM                         
+Ratio of Rank Value to EBIT (Operating Income)                          RANKVALEB                      
+Ratio of Rank Value to EBITDA                                           RANKVALCF                      
+Ratio of Rank Value to Forecasted EBIT Current Fiscal Year              RANKVALFORECASTEDEB1           
+Ratio of Rank Value to Forecasted EBIT Next Twelve Months               RANKVALFORECASTEDEBNTM         
+Ratio of Rank Value to Forecasted EBIT Year 2                           RANKVALFORECASTEDEB2           
+Ratio of Rank Value to Forecasted EBITDA Current Fiscal Year            RANKVALFORECASTEDCF1           
+Ratio of Rank Value to Forecasted EBITDA Next Twelve Months             RANKVALFORECASTEDCFNTM         
+Ratio of Rank Value to Forecasted EBITDA Year 2                         RANKVALFORECASTEDCF2           
+Ratio of Rank Value to Forecasted Net Income Current Fiscal Year        RANKVALFORECASTEDNI1           
+Ratio of Rank Value to Forecasted Net Income Next Twelve Months         RANKVALFORECASTEDNINTM         
+Ratio of Rank Value to Forecasted Net Income Year 2                     RANKVALFORECASTEDNI2           
+Ratio of Rank Value to Forecasted Pre-Tax Income Current Fiscal Year    RANKVALFORECASTEDPTINC1        
+Ratio of Rank Value to Forecasted Pre-Tax Income Next Twelve Months     RANKVALFORECASTEDPTINCNTM      
+Ratio of Rank Value to Forecasted Pre-Tax Income Year 2                 RANKVALFORECASTEDPTINC2        
+Ratio of Rank Value to Forecasted Sales Current Fiscal Year             RANKVALFORECASTEDSALES1        
+Ratio of Rank Value to Forecasted Sales Next Twelve Months              RANKVALFORECASTEDSALESNTM      
+Ratio of Rank Value to Forecasted Sales Year 2                          RANKVALFORECASTEDSALES2        
+Ratio of Rank Value to Net Assets                                       RANKVALNA                      
+Ratio of Rank Value to Net Income                                       RANKVALNI                      
+Ratio of Rank Value to Sales                                            RANKVALSALES                   
+Ratio of Share Price 4 Weeks Prior to Announcement to EPS               PE4WK                          
+Ratio of Share Price to Net Assets per Share                            PRNA                           
+Ratio of Shareholder's Equity to Total Assets                           SETASS                         
+Ratio of Total Debt to Shareholders Equity (Gearing)                    GEARING                        
+Reason for Relating                                                     REASON_RELATED                 
+Recapitalization Flag (Y/N)                                             RECAP                          
+Recapitalization Stub Value ($ Mil)                                     RECAPS                         
+Regulatory Agencies Required to Approve Deal (Codes)                    AGENCYC                        
+Related Alliance/JV Flag (Y/N)                                          RD_JV_FLAG                     
+Related Alliance/JV: Date Announced                                     RD_JV_DATE                     
+Related Alliance/JV: Name                                               RD_JV_NAME                     
+Related Alliance/JV: Status (Code)                                      RD_JV_STC                      
+Related Deal Number                                                     RELATED_DEAL_NUMBER            
+Related Deal Type (Code)                                                RELATED_DEAL_TYPE              
+Related Debt Coupon: Coupon Rate (%)                                    REL_BOND_C                     
+Related Debt Maturity: Final Maturity Date                              REL_BOND_FMAT                  
+Related Debt Ratings: Moodys Debt/Bank Loan Rating                      REL_BOND_QMOODY                
+Related Debt S&P Rating                                                 REL_BOND_QSP                   
+Related Debt/Equity Book Runner                                         REL_BOND_BOOK                  
+Related Debt/Equity Book Runner (Codes Across the Page)                 REL_BOND_BOOK3                 
+Related Debt/Equity Domicile Nation (Code)                              REL_NI_RANK_DOMICILE_NATION    
+Related Debt/Equity Issue Type (Code)                                   REL_EQUITY_ISSUE_TYPE          
+Related Debt/Equity Issuer 6-digit CUSIP                                REL_BOND_CUSIP                 
+Related Debt/Equity Offer Date                                          REL_BOND_DATE                  
+Related Debt/Equity Offer Yield to Maturity                             REL_NI_Y                       
+Related Debt/Equity Package ID                                          REL_BOND_PACKAGE_ID            
+Related Debt/Equity Proceeds Amount + Overallotment Sold All Markets (US$Mil) REL_BOND_RANK1_TOTDOLAMTPRO    
+Related Debt/Equity Proceeds Amount + Overallotment Sold This Market (US$Mil) REL_EQUITY_PROOVSLD            
+Related Debt/Equity Security Type (Code)                                REL_BOND_SECURC                
+Related Debt/Equity Target Market (Code)                                REL_NI_TARGET_MARKET           
+Related Debt/Equity Transaction Status                                  REL_NI_TRANS_STATUS            
+Related Equity Description of Issue                                     REL_EQUITY_DESCR               
+Related Equity Offer Price (Host)                                       REL_EQUITY_OFFERPRICE          
+Related Exchange Offer/Debt Tender Flag (Y/N)                           RD_EO_FLAG                     
+Related Exchange Offer/Debt Tender Offer Date                           RD_EO_DATE                     
+Related Exchange Offer/Debt Tender: Company Name                        RD_EO_NAME                     
+Related Exchange Offer/Debt Tender: Status (Code)                       RD_EO_STC                      
+Related Financing Details Available Flag Y/N                            RELATED_DETAILS_YN             
+Related IPO Flag (Y/N)                                                  RD_IPO_FLAG                    
+Related IPO: Company Name                                               RD_IPO_NAME                    
+Related IPO: Date                                                       RD_IPO_DATE                    
+Related IPO: Offering Amount ($ Mil)                                    RD_IPO_AMT                     
+Related Loan Book Runner                                                REL_LOAN_BOOK                  
+Related Loan Book Runner (Codes Across the Page)                        REL_LOAN_BOOK3                 
+Related Loan Borrower 6-digit CUSIP                                     REL_LOAN_CUSIP                 
+Related Loan Dates: Financial Close Date                                REL_LOAN_FINCLOSE_DATE         
+Related Loan Initial Pricing                                            REL_LOAN_INITIALPRICING        
+Related Loan Maturity: Maturity Date                                    REL_LOAN_MAT                   
+Related Loan Package Amount (US$ mil)                                   REL_LOAN_DEAL_AMOUNT           
+Related Loan Proceeds Amount This Market (US$ Mil)                      REL_LOAN_PROCDS                
+Related Loan Ratings: Moodys Long Term Corporate Debt Rating            REL_LOAN_LTD_MOODY_NUMBER      
+Related Loan Ratings: S&P Long Term Corporate Debt Rating               REL_LOAN_LTD_SP_NUMBER         
+Related Loan Status (Code)                                              REL_LOAN_STATUS                
+Related Loan Target Market Nation (Code)                                REL_LOAN_TARGET_MKT_NATION     
+Related Loan Type (Code)                                                REL_LOAN_TRANCHETYPECODE       
+Related Loan Yield Type                                                 REL_LOAN_HIGH_YIELD            
+Related M&A Deal Flag (Y/N)                                             RD                             
+Related M&A Deal: Acquiror                                              RDACU                          
+Related M&A Deal: Acquiror CIDGEN                                       RDACIDGEN                      
+Related M&A Deal: Date Deal was Announced                               RDEALMADA                      
+Related M&A Deal: Deal Status (Code)                                    RDSTATUSCODE                   
+Related M&A Deal: Deal Type (Code)                                      RD_DEAL_TYPE                   
+Related M&A Deal: Deal Value (Euro mil)                                 EURO_RDVAL                     
+Related M&A Deal: Deal Value (Host Mil)                                 HOSTRDVAL                      
+Related M&A Deal: Form (Code)                                           RDFORMCODE                     
+Related M&A Deal: SDC Deal Number                                       RDCODE                         
+Related M&A Deal: Target                                                RDTCU                          
+Related M&A Deal: Target CIDGEN                                         RDTCIDGEN                      
+Related M&A Deal: Value of Transaction ($ Mil)                          RDVAL                          
+Related Poison Pill: Announcement Date                                  RD_PP_DATE                     
+Related Poison Pill: Issuer Name                                        RD_PP_NAME                     
+Related Poison Pill: Original Version Flag (Y/N)                        RD_PP_ORIG                     
+Related Poison Pill: Pill Status (Code)                                 RD_PP_STC                      
+Related Poison Pill: SDC Deal Number                                    RD_DEALNO                      
+Related Proxy Fight: Date Announced                                     RD_PF_DATE                     
+Related Proxy Fight: Target Name                                        RD_PF_NAME                     
+Repurchase Flag (Y/N)                                                   REPURCH                        
+Research & Development Expense 1 Year Prior ($ Mil)                     RND1                           
+Research & Development Expense 1 Year Prior (Host Mil)                  HOSTRND1                       
+Research & Development Expense 2 Years Prior ($ Mil)                    RND2                           
+Research & Development Expense 2 Years Prior (Host Mil)                 HOSTRND2                       
+Research & Development Expense 3 Years Prior ($ Mil)                    RND3                           
+Research & Development Expense 3 Years Prior (Host Mil)                 HOSTRND3                       
+Research & Development Expense 4 Years Prior ($ Mil)                    RND4                           
+Research & Development Expense 4 Years Prior (Host Mil)                 HOSTRND4                       
+Research & Development Expense 5 Years Prior ($ Mil)                    RND5                           
+Research & Development Expense 5 Years Prior (Host Mil)                 HOSTRND5                       
+Research & Development Expense Last Twelve Months ($ Mil)               RND                            
+Research & Development Expense Last Twelve Months (Host Mil)            HOSTRNDLTM                     
+Research & Development Expense Most Recent Quarter ($ Mil)              RNDLQ                          
+Research & Development Expense Same Quarter 1 Year Prior ($ Mil)        RNDFQ                          
+Restructuring Flag (Y/N)                                                RESTR                          
+Restructuring Value ($ Mil)                                             RESTRUCTURINGVAL               
+Restructuring Value (Host Mil)                                          HOST_RESTRUCTURINGVAL          
+Reverse LBO Flag (Y/N)                                                  IPO                            
+Reverse Takeover Flag (Y/N)                                             REVERSE                        
+Rumored Deal Flag (Y/N)                                                 RUM                            
+S&P 400 at Announcement                                                 SP400DA                        
+S&P 400 at Yesterday's Date                                             SP400DPS                       
+S&P 500 at Announcement                                                 SP500DA                        
+S&P 500 at Yesterday's Date                                             SP500DPS                       
+Sale and LeaseBack Flag (Y/N)                                           SALE_LEASEBACK_FLAG            
+Sales Forecast (Host Mil)                                               HOSTTOFORECAST                 
+SDC Deal No                                                             DEAL_NO                        
+SDC Deal Type                                                           MASTER_DEAL_TYPE               
+Secondary Buyout Flag (Y/N)                                             SBO                            
+Secondary Escrow % of Rank Value                                        ESCROW2_PCT                    
+Secondary Escrow Basis (UPPER CASE)                                     ESCROW2_BASIS_UPPER            
+Secondary Escrow Period (Months)                                        ESCROW2_PERIOD                 
+Secondary Escrow Total (Host)                                           ESCROW2_AMT                    
+Secondary Escrow Total (USD)                                            ESCROW2_AMT_USD                
+Self-Tender Flag (Y/N)                                                  STEND                          
+Seller 6-digit Cusip                                                    SELLCUSIP                      
+Seller Immediate Parent 6-digit Cusip                                   SIP                            
+Seller Immediate Parent Cidgen                                          SIPCIDGEN                      
+Seller Immediate Parent is a Financial Sponsor (Y/N)                    SIPFINANCIAL                   
+Seller is a Financial Sponsor (Y/N)                                     SELLFINANCIAL                  
+Seller Macro Industry (Code)                                            SELL_TTF_MACRO_CODE            
+Seller Mid Industry (Code)                                              SELL_TTF_MID_CODE              
+Seller Nation (Code)                                                    SELLNATION_CODE                
+Seller Nation Region (Code)                                             SELLER_NAT_REGION              
+Seller Primary NAIC (Code)                                              SELLNAICP                      
+Seller SIC (Code)                                                       SELLSICP                       
+Seller Ultimate Parent 6-digit Cusip                                    SUPCUSIP                       
+Seller Ultimate Parent is a Financial Sponsor (Y/N)                     SELLUPFINANCIAL                
+Seller Ultimate Parent Macro Industry (Code)                            SELL_TUP_MACRO_CODE            
+Seller Ultimate Parent Mid Industry (Code)                              SELL_TUP_MID_CODE              
+Seller Ultimate Parent Nation (Code)                                    SUPNATION_CODE                 
+Seller Ultimate Parent Primary NAIC (Code)                              SELLUPNAICP                    
+Seller Ultimate Parent SIC (Code)                                       SUPSICP                        
+Sellers of a Minority Interest                                          SCUTIC                         
+Sellers of a Minority Interest Flag (Y/N)                               SELLER_YN                      
+Sellside Hedge Fund Involvement (Y/N)                                   SELLSIDE_HEDGE_FUND_INVOLV_YN  
+Sellside Infrastructure Fund Involvement (Y/N)                          SELLSIDE_INFRA_FUND_INVOLV_YN  
+Sellside: Any Red Chip Company Involvement Y/N                          SELLSIDE_RED_CHIP_INVOLV_YN    
+Sellside: Financial Sponsor Activity Flag (Y/N)                         SELLSIDE_INVOLV_YN             
+Sellside:Government Owned Involvement Flag (Y/N)                        SELLSIDE_GOV_OWN_INVOLV_YN     
+Sellside:Sovereign Wealth Fund Involvement Flag (Y/N)                   SELLSIDE_SWF_INVOLV_YN         
+Share Price of Alternative Offer ($)                                    PRALT                          
+Share Price of Alternative Offer (Euro)                                 EURO_PRALT                     
+Share Price of Alternative Offer (Host)                                 HOSTPRALT                      
+Share Price Paid by Acquiror for Target Shares ($)                      PR                             
+Share Price Paid by Acquiror for Target Shares (Euro)                   EURO_PR                        
+Share Price Paid by Acquiror for Target Shares (Host)                   HOSTPR                         
+Share Price per Preference Share (Euro)                                 EURO_PRPREF                    
+Share Price per Preference Share (Host)                                 HOSTPRPREF                     
+Share Price per Preference Share of Alternative Offer (Euro)            EURO_PRALTPREF                 
+Share Price per Preference Share of Alternative Offer (Host)            HOSTPRALTPREF                  
+Shareholder's Equity ($ Mil)                                            SE                             
+Shareholder's Equity (Euro Mil)                                         EMU_HOSTSE                     
+Shareholder's Equity (Host Mil)                                         HOSTSE                         
+Shares Accepted (Mil)                                                   SHACC                          
+Shares Tendered (Mil)                                                   SHTEN                          
+Short Term Debt Last Twelve Months ($ Mil)                              STD                            
+Short Term Debt Last Twelve Months (Euro mil)                           EURO_STD                       
+Short Term Debt Last Twelve Months (Host Mil)                           HOSTSTD                        
+Source of Funds used to Finance Deal (Codes)                            MENUSF                         
+Source of Funds used to Finance Deal (Text Paragraph)                   SF                             
+Source of Restructuring Value (Codes)                                   RESTRUCTURING_SRC              
+Source used for Deal Valuation (Code)                                   VALSRC                         
+Sources of Deal Info (Codes)                                            SRCC                           
+Sources of Target Company Info (Codes)                                  TCOMPSRCCODE                   
+Sources of Target Financial Info (Codes)                                FINSRCC                        
+Sovereign Wealth Fund Involvement Flag (Y/N)                            SWF_INVOLV_YN                  
+Sovereign Wealth Fund Name                                              SWF_CUSIP                      
+Sovereign Wealth Fund Role                                              SWF_ROLE                       
+Special Committee Description (UPPER CASE)                              SPEC_CMTE_DESC_UPPER           
+Special Committee Flag (Y/N)                                            SPEC_CMTE                      
+Specific Deal                                                           DEALNO                         
+Spinoff Estimated Share Price ($)                                       ESTSPINPR                      
+Spinoff Estimated Share Price (Host)                                    HOSTESTSPINPR                  
+Spinoff Estimated Value ($ Mil)                                         ESTSPINVAL                     
+Spinoff Estimated Value (Host Mil)                                      HOSTESTSPINVAL                 
+Spinoff Flag (Y/N)                                                      SPIN                           
+Splitoff Flag (Y/N)                                                     SPLIT                          
+Stake Purchase Flag (Y/N)                                               STAKE                          
+Stake Purchase Value                                                    VSTAKE                         
+Standard Ranking Eligible Flag (Y/N)                                    RANK_ME                        
+State where Laws Governing Deal are Applicable (Code)                   LAWC                           
+Status of MMC Ruling (Code)                                             STATUS_MMCCODE                 
+Stock Option Average Exercise Price ($)                                 OPEXEPR                        
+Stock Option Proceeds, based on Average Exercise Price                  OPTION_PROCEED                 
+Stock Option Proceeds, based on Average Exercise Price (Host Mil)       HOST_OPTION_PROCEED            
+Stock Options Description (Text Paragraph)                              OPTIONS_DESC                   
+Stock Options Exist on Target Stock Flag (Y/N)                          OPTIONS_YN                     
+Stock Swap Flag (Y/N)                                                   SWAP                           
+Straight Debt 1 Year Prior ($ Mil)                                      STRD1                          
+Straight Debt 2 Years Prior ($ Mil)                                     STRD2                          
+Straight Debt 3 Years Prior ($ Mil)                                     STRD3                          
+Straight Debt 4 Years Prior ($ Mil)                                     STRD4                          
+Straight Debt 5 Years Prior ($ Mil)                                     STRD5                          
+Straight Debt Last Twelve Months                                        EURO_STRAIGHTDEBT              
+Straight Debt Last Twelve Months ($ Mil)                                STRD                           
+Straight Debt Last Twelve Months (Host Mil)                             HOSTSTRAIGHTDEBT               
+Straight Debt Most Recent Quarter ($ Mil)                               STRDLQ                         
+Straight Debt Same Quarter 1 Year Prior ($ Mil)                         STRDFQ                         
+Sweeping Purchase Flag (Y/N)                                            SWEEP                          
+Tangible Book Value (Host Mil)                                          TBV                            
+Tangible Common Equity Ratio                                            TANGIBLE_CER                   
+Target                                                                  CUTIC                          
+Target & Acquiror are Located in Same State Flag (Y/N)                  INTRASTATE                     
+Target & Acquiror Financial Advisor Fees, Total Amt (Euro Mil)          EUROFEETOT                     
+Target & Acquiror Financial Advisor Fees, Total Amt (Host Mil)          HOSTFEETOT                     
+Target & Acquiror Financial Advisor Fees, Total Amt as % of Value       FTOTPCT                        
+Target & Acquiror Public Mid Code                                       BOTH_PUB_MID                   
+Target 6-digit CUSIP                                                    TCU                            
+Target Actual Shares Outstanding (Mil)                                  CACT                           
+Target Actual Shares Outstanding Last Twelve Months                     COMDFIN                        
+Target Advertising Billings ($ Mil)                                     BILL                           
+Target Advertising Billings (Host Mil)                                  HOSTBILLINGS                   
+Target Advisor Credit in Ranking                                        TADVCREDIT                     
+Target All SIC (Codes Listed Down the Page)                             TSIC                           
+Target and Acquiror Financial Advisor Fee Description                   FEES                           
+Target and Acquiror Financial Advisor Fees, Total ($mil)                FTOT                           
+Target Australian Stock Exchange Industry (Code)                        TASXC                          
+Target Branch Address                                                   BRANCHADD                      
+Target Branches/Retail Outlets                                          BR                             
+Target Business Description, Full (ALL CAPS, Text Paragraph)            TBLUPPER                       
+Target Business Description, Full (UPPER CASE)                          TBUSINESSL_Q                   
+Target Canadian Province                                                TPROVINCE                      
+Target CIDGEN                                                           TCIDGEN                        
+Target City                                                             TCITY                          
+Target Co & Acquiror Ultimate Parent located in same region (Y/N)       INTRAREGIONAL                  
+Target Co & Acquiror Ultimate Parent NOT located in same region (Y/N)   INTERREGIONAL                  
+Target Datastream Code                                                  T_DS_CODE                      
+Target Due Diligence Advisor (Code)                                     TACCC                          
+Target Due Diligence Advisor (Name)                                     TACC                           
+Target Fax Number                                                       FAXNUM                         
+Target Financial Adv. Fee is Based on % of Deal Value Flag (Y/N)        TPCTFEE                        
+Target Financial Advisor (Codes Listed Down the Page)                   TAC                            
+Target Financial Advisor Assignments (Codes)                            TASSIGNC                       
+Target Financial Advisor Fee Assignments (Codes)                        TFC                            
+Target Financial Advisor Fee Based on Flat Fee Flag (Y/N)               TFLATFEE                       
+Target Financial Advisor Fee Information Source                         FEE_SOURCE                     
+Target Financial Advisor Fees, Amt per Advisor ($ Mil)                  TFTOTN                         
+Target Financial Advisor Fees, Amt per Advisor (Host Mil)               HOSTTTOTFEENEG                 
+Target Financial Advisor Fees, Amt per Assignment ($ Mil)               TFAMT                          
+Target Financial Advisor Fees, Amt per Assignment (Host Mil)            HOSTTFEEAMT                    
+Target Financial Advisor Fees, Total Amt ($ Mil)                        TFTOT                          
+Target Financial Advisor Fees, Total Amt (Euro Mil)                     EUROTFEETOT                    
+Target Financial Advisor Fees, Total Amt (Host Mil)                     HOSTTFEETOT                    
+Target Financial Advisor Fees, Total Amt as % of Deal Value             TFPCT                          
+Target Financial Advisor Long Name                                      TALONG                         
+Target Financial Advisors (Codes)                                       TAA_TACODE                     
+Target Financial Advisors with LT-eligible Role (Code Listed Down the Page) TAC_ROLE_ELIG                  
+Target Financial Advisors with LT-eligible Role (Codes)                 TAA_TACODE_ROLE_ELIG           
+Target Financials Source Date                                           DATE_FIN_SOURCE_T              
+Target Forbes Sales 500 Rank                                            TFBRANK                        
+Target Fortune 500 Rank                                                 TFTRANK                        
+Target Fully Diluted Shares Outstanding (Mil)                           COUT                           
+Target High Tech Industry (Codes)                                       THTECHC                        
+Target Immediate Parent 6-digit CUSIP                                   TIP                            
+Target Immediate Parent CIDGEN                                          TIPCIDGEN                      
+Target Immediate Parent is a Financial Sponsor (Y/N)                    TIPFINANCIAL                   
+Target Immediate Parent Public Status (Code)                            TIPPUBC                        
+Target Industry Group (Code)                                            TINGC                          
+Target Industry Sector (Code)                                           TINC                           
+Target is a Financial Sponsor Flag (Y/N)                                TFINANCIAL                     
+Target is a Leveraged Buyout Firm                                       TLBOFIRM                       
+Target is a Limited Partnership Flag (Y/N)                              TLP                            
+Target is Family Owned/Controlled Flag (Y/N) (min. 20%)                 FAM                            
+Target Legal Advisor Assignments (Codes)                                TLEGALASSIGNMENTCODE           
+Target Legal Advisor Credit in Ranking                                  T_LEG_CREDIT                   
+Target Legal Advisor Fees, Amt per Advisor ($ Mil)                      TFLEGAL                        
+Target Legal Advisor Lawyers (Code)                                     TLAWYERCODE                    
+Target Legal Advisor Nation (Code)                                      TLEGALNATIONC                  
+Target Legal Advisors (Codes)                                           TLEGC                          
+Target Lockup Percentage (%)                                            T_LOCKUP_PCT                   
+Target Lockup Price (Host Curr)                                         T_LOCKUP_PR_HOST               
+Target Lockup Price (US $)                                              T_LOCKUP_PR                    
+Target LT-Eligible Financial Advisor Assignments (Codes)                TASSIGNC_ELIG                  
+Target Macro Industry (Code)                                            TTF_MACRO_CODE                 
+Target Market Value 4 Weeks Prior to Announcement ($ Mil)               MV                             
+Target Market Value 4 Weeks Prior to Announcement (Euro mil)            EURO_MV                        
+Target Market Value 4 Weeks Prior to Announcement (Host Mil)            HOSTMV                         
+Target Mid Industry (Code)                                              TTF_MID_CODE                   
+Target NAIC (Code)                                                      TNAIC                          
+Target Name (Full)                                                      TNL                            
+Target Nation (Code)                                                    TNATC                          
+Target Nation of Primary Stock Exchange (Code)                          TNPSE_CODE                     
+Target Nation of Stock Exchange (Code)                                  TNSE_CODE                      
+Target Nation Region (Code)                                             TNATRC                         
+Target Number of Employees                                              EMPLOYEE                       
+Target Number of Hospital Beds                                          BEDS                           
+Target or Acquiror 6-digit CUSIP                                        BCUSIP                         
+Target or Acquiror Agreed to Termination Fee Flag (Y/N)                 TERM                           
+Target or Acquiror All SIC (Codes)                                      BSIC                           
+Target or Acquiror Business Description, Full (UPPER CASE)              TBL_Q_ABL_Q                    
+Target or Acquiror Datastream Code                                      B_DS_CODE                      
+Target or Acquiror Financial Adv. Fees, Amt per Assignment (Host Mil)   HOSTBFEEAMT                    
+Target or Acquiror Financial Advisor Assignments (Codes)                BASSIGNCODE                    
+Target or Acquiror Financial Advisor Fee Assignments (Codes)            BFEECODE                       
+Target or Acquiror Financial Advisor Fees, Amt per Advisor ($ Mil)      BTOTFEENEG                     
+Target or Acquiror Financial Advisor Fees, Amt per Advisor (Host Mil)   HOSTBTOTFEENEG                 
+Target or Acquiror Financial Advisor Fees, Amt per Assignment ($ Mil)   BFEEAMT                        
+Target or Acquiror Financial Advisor Fees, Total Amt ($ Mil)            TFEETOT_OR_AFEETOT             
+Target or Acquiror Financial Advisors (Codes)                           BAA_BACODE                     
+Target or Acquiror Financial Advisors with LT-eligible Role (Codes)     BAA_BACODE_ROLE_ELIG           
+Target or Acquiror High Tech Industry (Codes)                           AHTECHC_OR_THTECHC             
+Target or Acquiror Industry Group (Code)                                BMAINDUSTRYGROUP               
+Target or Acquiror Industry Sector (Code)                               BMAINDUSTRYCODE                
+Target or Acquiror Legal Advisor                                        BLEGALLONG                     
+Target or Acquiror LT-Eligible Financial Advisor Assignments (Codes)    BASSIGNCODE_ELIG               
+Target or Acquiror Macro Industry (Code)                                BTF_MACRO_CODE                 
+Target or Acquiror Market Value 4 Weeks Prior to Announcement ($ Mil)   MV_OR_AMV                      
+Target or Acquiror Mid Industry (Code)                                  BTF_MID_CODE                   
+Target or Acquiror Nation (Code)                                        BNATIONCODE                    
+Target or Acquiror Nation of Primary Stock Exchange (Code)              BNPSE_CODE                     
+Target or Acquiror Nation of Stock Exchange (Code)                      BNSE_CODE                      
+Target or Acquiror Nation Region (Code)                                 BNATREGC                       
+Target or Acquiror Net Assets Last Twelve Months ($ Mil)                NETASS_OR_ANETASS              
+Target or Acquiror Parent Nation (Code)                                 TUPNATIONCODE_OR_AUPNATIONCODE 
+Target or Acquiror Parent's Public Status (Code)                        TUPPUBCODE_OR_AUPPUBCODE       
+Target or Acquiror Primary NAIC (Code)                                  BNAICP                         
+Target or Acquiror Primary Nation Region (Code)                         BPNATREGC                      
+Target or Acquiror Primary SIC (Code)                                   BSICP                          
+Target or Acquiror Primary Stock Exchange (Code)                        BEXCHC                         
+Target or Acquiror Primary Stock Exchange (Name)                        BEXCHANGE                      
+Target or Acquiror Primary Ticker Symbol                                BTIC                           
+Target or Acquiror Public Status (Code)                                 BPUBLICCODE                    
+Target or Acquiror Sales Last Twelve Months ($ Mil)                     SALESLTM_OR_ASALESLTM          
+Target or Acquiror Significant Individuals (Codes)                      BSIGINDCODE                    
+Target or Acquiror State (Code)                                         BSTATECODE                     
+Target or Acquiror State of Incorporation (Code)                        BSTATEINCCODE                  
+Target or Acquiror Stock Exchange (Code)                                BAEXCHC                        
+Target or Acquiror Ticker Symbol                                        BBTIC                          
+Target or Acquiror Total Assets Last Twelve Months ($ Mil)              TASS_OR_ATASS                  
+Target or Acquiror Ult Parent Business Descr, Full (Text Paragraph)     TAUPBL                         
+Target or Acquiror VEIC (code)                                          BVEIC                          
+Target Phone Number                                                     TPH                            
+Target Price High ($)                                                   TARGET_PR_HIGH                 
+Target Price Low ($)                                                    TARGET_PR_LOW                  
+Target Primary High Tech Code                                           HITECHP                        
+Target Primary NAIC (Code)                                              TNAICP                         
+Target Primary Nation Region (Code)                                     TPNATREGC                      
+Target Primary SIC (Code)                                               TSICP                          
+Target Primary Stock Exchange (Code)                                    TEXCHC                         
+Target Primary Stock Exchange (Name)                                    TEXCH                          
+Target Primary Stock Exchange by Country (Code)                         TPRIMEXCHC                     
+Target Primary Ticker Symbol                                            TTIC                           
+Target Primary Venture Economics Industry (Code)                        TVEICP                         
+Target Public Mid Code                                                  TARGET_PUB_MID                 
+Target Public Status (Code)                                             TPUBC                          
+Target Ratio High                                                       COLRATIOH                      
+Target Ratio Low                                                        COLRATIOL                      
+Target Share Price 1 Day Prior to Announcement ($)                      PR1DAY                         
+Target Share Price 1 Day Prior to Announcement (Euro)                   EURO_C1DAY                     
+Target Share Price 1 Day Prior to Announcement (Host)                   HOSTC1DAY                      
+Target Share Price 1 Week Prior to Announcement ($)                     PR1WK                          
+Target Share Price 1 Week Prior to Announcement (Euro)                  EURO_C1WK                      
+Target Share Price 1 Week Prior to Announcement (Host)                  HOSTC1WK                       
+Target Share Price 4 Weeks Prior to Announcement ($)                    PR4WK                          
+Target Share Price 4 Weeks Prior to Announcement (Euro)                 EURO_C4WK                      
+Target Share Price 4 Weeks Prior to Announcement (Host)                 HOSTC4WK                       
+Target Short Business Description                                       TB                             
+Target Significant Individuals (Codes)                                  TSIGINDCODE                    
+Target Significant Individuals (Names)                                  TSI                            
+Target State (Code)                                                     TSTC                           
+Target State of Incorporation (Code)                                    STIC                           
+Target Stock Exchange (Code)                                            TAEXCHC                        
+Target Stock Exchange (Name)                                            TAEXCH                         
+Target Stock Price 1 Day After Announcement ($)                         TPR1DAYA                       
+Target Stock Price 1 Week After Announcement ($)                        TPR1WKA                        
+Target Stock Price 180 Days After Announcement ($)                      TPR180DAYA                     
+Target Stock Price 4 Weeks After Announcement ($)                       TPR4WKA                        
+Target Stock Price 60 Days After Announcement ($)                       TPR60DAYA                      
+Target Stock Price 90 Days After Announcement ($)                       TPR90DAYA                      
+Target Stock Price on Announcement Day ($)                              TPRDAY                         
+Target Street Address                                                   TSTR                           
+Target Subscribers/Circulation (Thous)                                  SUBSCRIBERS                    
+Target Supranational Flag (Y/N)                                         TSUPRANATIONAL                 
+Target Termination Fee ($ Mil)                                          TTERMFEE                       
+Target Termination Fee (Host Mil)                                       HOSTTTERMFEE                   
+Target Termination Fee Flag (Y/N)                                       TTERM                          
+Target Ticker Symbol                                                    TTICC                          
+Target Total Bank Deposits ($ Mil)                                      DEPOS                          
+Target Total Bank Deposits (Host Mil)                                   HOSTDEPOSITS                   
+Target Total Natural Gas Reserves (Billions of Cubic Feet)              NGAS                           
+Target Total Oil Reserves ($ Mil)                                       OILRESERVES                    
+Target Ultimate Parent 6-digit CUSIP                                    TUP                            
+Target Ultimate Parent All SIC (Codes)                                  TUPSIC                         
+Target Ultimate Parent Australian Stock Exchange Industry (Code)        TUPASXC                        
+Target Ultimate Parent Business Description, Full (Text Paragraph)      TUPBL                          
+Target Ultimate Parent Business Short (Description)                     TUPBUSS                        
+Target Ultimate Parent CIDGEN                                           TUPCIDGEN                      
+Target Ultimate Parent City                                             TUPCITY                        
+Target Ultimate Parent High Tech Industry (Codes)                       TUPHTECH                       
+Target Ultimate Parent Industry (Code)                                  TUPINC                         
+Target Ultimate Parent Industry Group (Code)                            TUPINGC                        
+Target Ultimate Parent is a Financial Sponsor Flag (Y/N)                TUPFINANCIAL                   
+Target Ultimate Parent is an LBO Firm Flag (Y/N)                        TUPLBOFIRM                     
+Target Ultimate Parent Macro Industry (Code)                            TUP_MACRO_CODE                 
+Target Ultimate Parent Mid Industry (Code)                              TUP_MID_CODE                   
+Target Ultimate Parent Name                                             TUPNAMES                       
+Target Ultimate Parent Nation (Code)                                    TUPNATC                        
+Target Ultimate Parent Nation Region (Code)                             TUPNATREGC                     
+Target Ultimate Parent Phone Number                                     TUPPHONE                       
+Target Ultimate Parent Primary NAIC (Code)                              TUPNAICP                       
+Target Ultimate Parent Primary Nation Region (Code)                     TUPPNATREGC                    
+Target Ultimate Parent Primary SIC (Code)                               TUPSICP                        
+Target Ultimate Parent Primary Stock Exchange (Code)                    TUPEXCHCODE                    
+Target Ultimate Parent Primary Stock Exchange (Name)                    TUPEXCHANGE                    
+Target Ultimate Parent Primary Ticker Symbol                            TUPTIC                         
+Target Ultimate Parent Primary Venture Economics Industry (Code)        TUPVEICP                       
+Target Ultimate Parent Public Mid Code                                  TUP_PUB_MID                    
+Target Ultimate Parent Public Status (Code)                             TUPPUBC                        
+Target Ultimate Parent State (Code)                                     TUPSTC                         
+Target Ultimate Parent State (Name)                                     TUPSTATE                       
+Target Ultimate Parent Stock Exchange (Code)                            TUPAEXCHCODE                   
+Target Ultimate Parent Stock Exchange (Name)                            TUPAEXCHANGE                   
+Target Ultimate Parent Street Address (Line 1)                          TUPSTREET1                     
+Target Ultimate Parent Street Address (Line 2)                          TUPSTREET2                     
+Target Ultimate Parent Ticker Symbol                                    TUPTICC                        
+Target Ultimate Parent Venture Economics Industry (Code)                TUPVEIC                        
+Target Ultimate Parent Zip Code                                         TUPZIP                         
+Target Ultimate Parent's SEDOL                                          TUPSEDOL                       
+Target Venture Economics Industry (Code)                                TVEIC                          
+Target Walk Away Price                                                  TARGET_WALK_AWAY_PRICE         
+Target Zip Code                                                         TZIP                           
+Target/Acquiror/Seller/Investor (Codes)                                 BCUTIC                         
+Target/Seller                                                           TSCUTIC                        
+Target's Indemnification Basket (HOST CURRENCY)                         INDEMN_TGT_BSKT_HOST           
+Target's Indemnification Basket (USD)                                   INDEMN_TGT_BSKT                
+Target's Indemnification Basket Deductibility (Code)                    INDEMN_TGT_BSKT_DEDUCT         
+Target's Indemnification Cap - % of (Rank Value)                        INDEMN_TGT_CAP_PCT             
+Target's Indemnification Cap (HOST)                                     INDEMN_TGT_CAP_HOST            
+Target's Indemnification Cap (USD)                                      INDEMN_TGT_CAP                 
+Target's Individual Claim Deductibility (Code)                          INDEMN_TGT_INDIV_DEDUCT        
+Target's Min. Indemnifiable Claim (HOST CURRENCY)                       INDEMN_TGT_INDIV_MIN_HOST      
+Target's Min. Indemnifiable Claim (USD)                                 INDEMN_TGT_INDIV_MIN           
+Target's Net Income LTM in Acquiror's Host Currency                     AHOSTNILTM                     
+Target's SEDOL                                                          TARGET_SEDOL                   
+Targt DUNS Number                                                       TDUNS                          
+Taxes 1 Year Prior ($ Mil)                                              TAX1                           
+Taxes 1 Year Prior (Host Mil)                                           HOSTTAXES1                     
+Taxes 2 Years Prior ($ Mil)                                             TAX2                           
+Taxes 2 Years Prior (Host Mil)                                          HOSTTAXES2                     
+Taxes 3 Years Prior ($ Mil)                                             TAX3                           
+Taxes 3 Years Prior (Host Mil)                                          HOSTTAXES3                     
+Taxes 4 Years Prior ($ Mil)                                             TAX4                           
+Taxes 4 Years Prior (Host Mil)                                          HOSTTAXES4                     
+Taxes 5 Years Prior ($ Mil)                                             TAX5                           
+Taxes 5 Years Prior (Host Mil)                                          HOSTTAXES5                     
+Taxes Last Twelve Months ($ Mil)                                        TAX                            
+Taxes Last Twelve Months (Host Mil)                                     HOSTTAXESLTM                   
+Taxes Most Recent Quarter ($ Mil)                                       TAXLQ                          
+Taxes Same Quarter 1 Year Prior ($ Mil)                                 TAXFQ                          
+Tender Offer Flag (Y/N)                                                 TEND                           
+Tender/Merger Flag (Y/N)                                                TM                             
+Tgt Ult Parent Long Buss Descr(ALL CAPS, Txt Para)                      TUPBUSINESSL_Q                 
+Topping Fee ($ Mil)                                                     TOPFEE                         
+Topping Fee Flag (Y/N)                                                  TOP                            
+Total Assets 3 Year Growth Rate (%)                                     TASS3YGR                       
+Total Assets 5 Year Growth Rate (%)                                     TASS5YGR                       
+Total Assets Last Twelve Months ($ Mil)                                 TASS                           
+Total Assets Last Twelve Months (Euro mil)                              EURO_TASS                      
+Total Assets Last Twelve Months (Host Mil)                              HOSTTASS                       
+Total Debt Last Twelve Months ($ Mil)                                   TOTALDEBT                      
+Total Debt last twelve Months (Host mil)                                TOTALDEBT_HOST                 
+Total Liabilities 3 Year Growth Rate (%)                                TLIA3YGR                       
+Total Liabilities 5 Year Growth Rate (%)                                TLIA5YGR                       
+Total Liabilities Last Twelve Months ($ Mil)                            TLIA                           
+Total Liabilities Last Twelve Months (Host Mil)                         HOSTTLIA                       
+Trading Comparable: Company Cusip                                       FO_TRADING_CUSIP               
+Trading Comparable: Implied Equity Value High (Host)                    FO_TRADING_EQVAL_HI_HOST       
+Trading Comparable: Implied Equity Value High (US$)                     FO_TRADING_EQVAL_HI            
+Trading Comparable: Implied Equity Value Low (Host)                     FO_TRADING_EQVAL_LOW_HOST      
+Trading Comparable: Implied Equity Value Low (US$)                      FO_TRADING_EQVAL_LOW           
+Trading Comparable: Implied Equity Value Type (Code)                    FO_TRADING_EQVAL_TYPEC         
+Trading Comparable: Valuation Multiple High                             FO_TRADING_VAL_HI              
+Trading Comparable: Valuation Multiple Low                              FO_TRADING_VAL_LOW             
+Trading Comparable: Valuation Multiple Mean                             FO_TRADING_VAL_MEAN            
+Trading Comparable: Valuation Multiple Median                           FO_TRADING_VAL_MEDIAN          
+Trading Comparable: Valuation Multiple Type                             FO_TRADING_VAL_TYPE            
+Transaction Comparable: Acquiror Cusip                                  FO_DEAL_ACUSIP                 
+Transaction Comparable: Deal Number                                     FO_DEAL_NO                     
+Transaction Comparable: Implied Equity Value High (Host)                FO_DEAL_EQVAL_HI_HOST          
+Transaction Comparable: Implied Equity Value High (US$)                 FO_DEAL_EQVAL_HI               
+Transaction Comparable: Implied Equity Value Low (Host)                 FO_DEAL_EQVAL_LOW_HOST         
+Transaction Comparable: Implied Equity Value Low (US$)                  FO_DEAL_EQVAL_LOW              
+Transaction Comparable: Implied Equity Value Type (Code)                FO_DEAL_EQVAL_TYPEC            
+Transaction Comparable: Rank Value (US$ Mil)                            FO_DEAL_RANKVAL                
+Transaction Comparable: Target Cusip                                    FO_DEAL_TCUSIP                 
+Transaction Comparable: Valuation Multiple High                         FO_DEAL_VAL_HI                 
+Transaction Comparable: Valuation Multiple Low                          FO_DEAL_VAL_LOW                
+Transaction Comparable: Valuation Multiple Mean                         FO_DEAL_VAL_MEAN               
+Transaction Comparable: Valuation Multiple Median                       FO_DEAL_VAL_MEDIAN             
+Transaction Comparable: Valuation Multiple Type                         FO_DEAL_VAL_TYPE               
+Two-Tiered Deal Flag (Y/N)                                              TWOTIER                        
+Value of Alternative Offer ($ Mil)                                      VALALT                         
+Value of Alternative Offer (Euro mil)                                   EURO_VALALT                    
+Value of Alternative Offer (Host Mil)                                   HOSTVALALT                     
+Value of Bridge Financing ($ Mil)                                       VBR                            
+Value of Bridge Financing (Euro mil)                                    EURO_VALBRIDGE                 
+Value of Capital Infusion ($ Mil)                                       VALCAPINF                      
+Value of Capital Infusion (Euro mil)                                    EURO_VALCAPINF                 
+Value of Capital Infusion (Host Mil)                                    HOSTVALCAPINF                  
+Value of Cash ($ Mil)                                                   VCASH                          
+Value of Cash (Euro mil)                                                EURO_VALCASH                   
+Value of Cash (Host Mil)                                                HOSTVALCASH                    
+Value of Common Stock ($ Mil)                                           VCOM                           
+Value of Common Stock (Euro mil)                                        EURO_VALCOM                    
+Value of Common Stock (Host Mil)                                        HOSTVALCOM                     
+Value of Common Stock at Effective Date ($ Mil)                         VCOMEFF                        
+Value of Common Stock at Effective Date (Euro mil)                      EURO_VALCOMEFF                 
+Value of Common Stock at Effective Date (Host Mil)                      HOSTVALCOMEFF                  
+Value of Competing Offer (Euro mil)                                     EURO_COMPETEVALUE              
+Value of Competing Offer (Host Mil)                                     HOSTCOMPETEVALUE               
+Value of Convertible Debt ($ Mil)                                       VCDEBT                         
+Value of Convertible Debt (Euro mil)                                    EURO_VALCDEBT                  
+Value of Convertible Debt (Host Mil)                                    HOSTVALCDEBT                   
+Value of Convertible Preferred Stock ($ Mil)                            VCPFD                          
+Value of Convertible Preferred Stock (Euro mil)                         EURO_VALCPFD                   
+Value of Convertible Preferred Stock (Host Mil)                         HOSTVALCPFD                    
+Value of Debt ($ Mil)                                                   VDEBT                          
+Value of Debt (Euro mil)                                                EURO_VALDEBT                   
+Value of Debt (Host Mil)                                                HOSTVALDEBT                    
+Value of Earnout ($ Mil)                                                VEARN                          
+Value of Earnout (Euro mil)                                             EURO_VALEARN                   
+Value of Earnout (Host Mil)                                             HOSTVALEARN                    
+Value of Equity at Effective Date ($ Mil)                               EQVAL2                         
+Value of Equity at Effective Date (Host Mil)                            HOST_EQVAL2                    
+Value of Equity Based on Financials ($ Mil)                             EQVAL                          
+Value of Equity Based on Financials (Euro mil)                          EURO_EQVAL                     
+Value of Equity Based on Financials (Host Mil)                          HOSTEQVAL                      
+Value of Liabilities Assumed ($ Mil)                                    VLIA                           
+Value of Liabilities Assumed (Euro mil)                                 EURO_VALLIA                    
+Value of Liabilities Assumed (Host Mil)                                 HOSTVALLIA                     
+Value of Other Consideration ($ Mil)                                    VOTH                           
+Value of Other Consideration (Euro mil)                                 EURO_VALOTHER                  
+Value of Other Consideration (Host Mil)                                 HOSTVALOTHER                   
+Value of Preferred Stock ($ Mil)                                        VPFD                           
+Value of Preferred Stock (Euro mil)                                     EURO_VALPFD                    
+Value of Preferred Stock (Host Mil)                                     HOSTVALPFD                     
+Value of Royalties ($ Mil)                                              VROYAL                         
+Value of Royalties (Euro mil)                                           EURO_VALROYAL                  
+Value of Royalties (Host Mil)                                           HOSTVALROYAL                   
+Value of Shares Tendered ($ Mil)                                        VTEND                          
+Value of Stake Purchase (Euro mil)                                      EURO_VALSTAKE                  
+Value of Stake Purchase (Host Mil)                                      HOSTVALSTAKE                   
+Value of Tender Offer (Euro mil)                                        EURO_VALTEND                   
+Value of Tender Offer (Host Mil)                                        HOSTVALTEND                    
+Value of Undetermined Consideration is Estimated Flag (Y/N)             VREST                          
+Value of Undisclosed Consideration ($ Mil)                              VUNDIS                         
+Value of Undisclosed Consideration (Euro mil)                           EURO_VALUNDIS                  
+Value of Undisclosed Consideration (Host Mil)                           HOSTVALUNDIS                   
+Value of Warrants ($ Mil)                                               VWAR                           
+Value of Warrants (Euro mil)                                            EURO_VALWAR                    
+Value of Warrants (Host Mil)                                            HOSTVALWAR                     
+Venture Type Code                                                       VENTURE_TYPE_CODE              
+Walkaway Flag (Y/N)                                                     WALKAWAY_FLAG                  
+Year Completed/Unconditional (yyyy)                                     YEAREFF                        
+Year of Announcement (yyyy)                                             YEARANN                        
+Year of Rank Date (yyyy)                                                RANK_YEAR                      
+Year Target Company Founded                                             FOUNDED    
